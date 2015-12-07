@@ -13,11 +13,6 @@
     "swipe",
     "zoom"
   ],
-  "maintainers": [
-    {
-      "name": "Computerlove"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dimsemenov/PhotoSwipe.git",

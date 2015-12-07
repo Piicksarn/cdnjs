@@ -12,12 +12,6 @@
     "form",
     "Bootstrap"
   ],
-  "maintainers": [
-    {
-      "name": "Nguyen Huu Phuoc",
-      "web": "https://twitter.com/nghuuphuoc"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/nghuuphuoc/bootstrapvalidator.git",

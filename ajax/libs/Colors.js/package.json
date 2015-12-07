@@ -9,12 +9,6 @@
     "color manipulation",
     "colors"
   ],
-  "maintainers": [
-    {
-      "name": "Matt Jordan",
-      "web": "http://matthewbjordan.me"
-    }
-  ],
   "author": "Matt Jordan",
   "license": "MIT",
   "npmName": "colors.js",

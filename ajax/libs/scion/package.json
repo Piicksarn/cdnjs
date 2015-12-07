@@ -9,13 +9,6 @@
     "w3c",
     "javascript"
   ],
-  "maintainers": [
-    {
-      "name": "Jacob Beard",
-      "email": "jbeard4@cs.mcgill.ca",
-      "url": "http://echo-flow.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jbeard4/SCION.git"

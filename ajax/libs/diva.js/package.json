@@ -14,20 +14,6 @@
     ]
   },
   "homepage": "https://ddmal.github.io/diva.js/",
-  "maintainers": [
-    {
-      "name": "Evan Magoni"
-    },
-    {
-      "name": "Wendy Liu"
-    },
-    {
-      "name": "Andrew Horwitz"
-    },
-    {
-      "name": "Laurent Pugin"
-    }
-  ],
   "keywords": [
     "images",
     "iiif",

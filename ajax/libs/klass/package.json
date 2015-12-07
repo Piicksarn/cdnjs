@@ -7,11 +7,6 @@
   "keywords": [
     "javascript"
   ],
-  "maintainers": [
-    {
-      "name": "Dustin Diaz"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ded/klass.git"

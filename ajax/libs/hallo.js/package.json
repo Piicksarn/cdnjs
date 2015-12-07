@@ -8,11 +8,6 @@
     "wysiwyg",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Henri Bergius"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/bergie/hallo.git",

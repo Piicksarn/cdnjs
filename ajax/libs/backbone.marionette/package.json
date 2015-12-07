@@ -11,13 +11,6 @@
     "events",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Derick Bailey",
-      "email": "derickbailey@gmail.com",
-      "web": "http://derickbailey.lostechies.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/marionettejs/backbone.marionette.git",

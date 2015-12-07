@@ -8,17 +8,6 @@
     "bdd",
     "testing"
   ],
-  "maintainers": [
-    {
-      "name": "Davis W. Frank"
-    },
-    {
-      "name": "Rajan Agaskar"
-    },
-    {
-      "name": "Christian Williams"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jasmine/jasmine.git",

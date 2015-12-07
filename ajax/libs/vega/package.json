@@ -8,12 +8,6 @@
     "vega",
     "vega.js"
   ],
-  "maintainers": [
-    {
-      "name": "Trifacta Inc.",
-      "web": "http://trifacta.github.io/vega/"
-    }
-  ],
   "npmName": "vega",
   "npmFileMap": [
     {

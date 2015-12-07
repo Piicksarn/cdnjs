@@ -9,12 +9,6 @@
     "deflate",
     "inflate"
   ],
-  "maintainers": [
-    {
-      "name": "Stuart Knightley",
-      "web": "https://github.com/Stuk"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Stuk/jszip.git",

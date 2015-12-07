@@ -13,12 +13,6 @@
     "sort",
     "sorting"
   ],
-  "maintainers": [
-    {
-      "name": "Miriam Zusin",
-      "web": "http://jplist.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/no81no/jplist"

@@ -9,11 +9,6 @@
     "function plotting",
     "mathematics education"
   ],
-  "maintainers": [
-    {
-      "name": "JSXGraph group at University of Bayreuth, Germany"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jsxgraph/jsxgraph.git",

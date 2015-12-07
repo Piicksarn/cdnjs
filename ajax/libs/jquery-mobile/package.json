@@ -20,11 +20,6 @@
     "toolkit",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "The jQuery Project"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jquery/jquery-mobile.git"

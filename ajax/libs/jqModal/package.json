@@ -8,11 +8,6 @@
     "jquery",
     "dialog"
   ],
-  "maintainers": [
-    {
-      "name": "Brice Burgess"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/briceburg/jqModal.git",

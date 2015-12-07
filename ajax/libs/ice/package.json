@@ -20,11 +20,6 @@
     "framework",
     "toolkit"
   ],
-  "maintainers": [
-    {
-      "name": "Zeroc, Inc."
-    }
-  ],
   "namespace": "ice",
   "license": "GPL-2.0",
   "repository": {

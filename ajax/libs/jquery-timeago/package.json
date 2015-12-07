@@ -10,13 +10,6 @@
     "dateformat",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Ryan McGeary",
-      "email": "ryan@mcgeary.org",
-      "web": "http://ryan.mcgeary.org/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/rmm5t/jquery-timeago.git",

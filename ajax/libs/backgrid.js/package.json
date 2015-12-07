@@ -8,13 +8,6 @@
     "collections",
     "grid"
   ],
-  "maintainers": [
-    {
-      "name": "Jimmy Yuen Ho Wong",
-      "email": "wyuenho@gmail.com",
-      "web": "https://github.com/wyuenho"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/wyuenho/backgrid.git",

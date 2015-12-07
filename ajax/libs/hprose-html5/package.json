@@ -28,13 +28,6 @@
     "communication",
     "middleware"
   ],
-  "maintainers": [
-    {
-      "name": "Ma Bingyao",
-      "email": "andot@hprose.com",
-      "web": "http://hprose.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/hprose/hprose-html5.git",

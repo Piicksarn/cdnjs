@@ -14,12 +14,6 @@
     "name": "M. Alsup",
     "url": "http://jquery.malsup.com"
   },
-  "maintainers": [
-    {
-      "name": "M. Alsup",
-      "web": "http://jquery.malsup.com"
-    }
-  ],
   "licenses": [
     "MIT",
     {

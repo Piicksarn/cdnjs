@@ -8,13 +8,6 @@
     "localstorage",
     "backbone"
   ],
-  "maintainers": [
-    {
-      "name": "Jerome Gravel-Niquet",
-      "email": "jeromegn@gmail.com",
-      "web": "http://jgn.me/"
-    }
-  ],
   "npmName": "backbone.localstorage",
   "npmFileMap": [
     {

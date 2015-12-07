@@ -11,13 +11,6 @@
     "max-width",
     "min-width"
   ],
-  "maintainers": [
-    {
-      "name": "Scott Jehl",
-      "email": "scott@scottjehl.com",
-      "web": "http://scottjehl.com/"
-    }
-  ],
   "namespace": "respond",
   "autoupdate": {
     "source": "git",

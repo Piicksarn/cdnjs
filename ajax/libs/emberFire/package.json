@@ -8,12 +8,6 @@
     "emberfire",
     "emberfire.js"
   ],
-  "maintainers": [
-    {
-      "name": "emberfire.js",
-      "web": "https://github.com/firebase/emberfire"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/firebase/emberfire.git",

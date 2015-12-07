@@ -8,12 +8,6 @@
     "favicon",
     "Tinycon"
   ],
-  "maintainers": [
-    {
-      "name": "Tom Moor",
-      "web": "http://tommoor.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tommoor/tinycon.git",

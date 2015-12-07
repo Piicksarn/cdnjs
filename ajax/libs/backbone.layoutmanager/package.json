@@ -10,11 +10,6 @@
     "templates",
     "views"
   ],
-  "maintainers": [
-    {
-      "name": "Tim Branyen (@tbranyen)"
-    }
-  ],
   "npmName": "backbone.layoutmanager",
   "npmFileMap": [
     {

@@ -10,12 +10,6 @@
     "menu",
     "context"
   ],
-  "maintainers": [
-    {
-      "name": "Rodney Rehm",
-      "web": "http://rodneyrehm.de"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/swisnl/jQuery-contextMenu.git"

@@ -13,11 +13,6 @@
     "streaming",
     "longpolling"
   ],
-  "maintainers": [
-    {
-      "name": "Donghwan Kim"
-    }
-  ],
   "npmName": "portal-client",
   "npmFileMap": [
     {

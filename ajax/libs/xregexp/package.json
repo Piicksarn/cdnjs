@@ -8,13 +8,6 @@
     "regex",
     "regexp"
   ],
-  "maintainers": [
-    {
-      "name": "Steven Levithan",
-      "email": "steves_list@hotmail.com",
-      "web": "http://stevenlevithan.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/slevithan/XRegExp.git"

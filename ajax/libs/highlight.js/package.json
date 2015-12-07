@@ -8,15 +8,6 @@
     "highlight",
     "syntax highlighter"
   ],
-  "maintainers": [
-    {
-      "name": "Diwaker Gupta"
-    },
-    {
-      "name": "Ivan Sagalaev",
-      "email": "maniac@softwaremaniacs.org"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/highlightjs/cdn-release.git",

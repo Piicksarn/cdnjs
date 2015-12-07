@@ -8,12 +8,6 @@
     "template",
     "mustache"
   ],
-  "maintainers": [
-    {
-      "name": "Yehuda Katz",
-      "web": "http://www.yehudakatz.com"
-    }
-  ],
   "npmName": "handlebars",
   "npmFileMap": [
     {

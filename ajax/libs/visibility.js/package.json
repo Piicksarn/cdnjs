@@ -9,13 +9,6 @@
     "html5",
     "visibility"
   ],
-  "maintainers": [
-    {
-      "name": "Andrey Sitnik",
-      "email": "andrey@sitnik.ru",
-      "web": "http://sitnik.ru/"
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",

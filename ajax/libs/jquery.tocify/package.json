@@ -9,12 +9,6 @@
     "toc",
     "table of contents"
   ],
-  "maintainers": [
-    {
-      "name": "Greg Franko",
-      "web": "http://gregfranko.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/gfranko/jquery.tocify.js.git",

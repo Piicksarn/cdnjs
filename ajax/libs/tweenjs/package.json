@@ -9,12 +9,6 @@
     "html5",
     "animation"
   ],
-  "maintainers": [
-    {
-      "name": "CreateJS",
-      "web": "http://www.createjs.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/CreateJS/TweenJS.git"

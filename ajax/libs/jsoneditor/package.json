@@ -13,12 +13,6 @@
     "name": "Jos de Jong",
     "web": "https://github.com/wjosdejong"
   },
-  "maintainers": [
-    {
-      "name": "Jos de Jong",
-      "web": "https://github.com/wjosdejong"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/wjosdejong/jsoneditoronline.git"

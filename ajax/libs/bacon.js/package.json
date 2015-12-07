@@ -13,12 +13,6 @@
     "lib",
     "frp"
   ],
-  "maintainers": [
-    {
-      "name": "Juha Paananen",
-      "web": "http://nullzzz.blogspot.com"
-    }
-  ],
   "npmName": "baconjs",
   "npmFileMap": [
     {

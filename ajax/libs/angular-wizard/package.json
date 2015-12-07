@@ -27,12 +27,6 @@
     "form",
     "steps"
   ],
-  "maintainers": [
-    {
-      "name": "Martin Gontovnikas",
-      "website": "http://gon.to/"
-    }
-  ],
   "dependencies": {},
   "license": "MIT"
 }

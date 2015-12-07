@@ -10,12 +10,6 @@
     "video",
     "html5"
   ],
-  "maintainers": [
-    {
-      "name": "Happyworm",
-      "web": "http://www.happyworm.com/"
-    }
-  ],
   "dependencies": {
     "jquery": ">1.7.0"
   },

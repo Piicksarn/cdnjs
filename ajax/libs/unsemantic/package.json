@@ -10,12 +10,6 @@
     "responsive grid",
     "grid system"
   ],
-  "maintainers": [
-    {
-      "name": "Nathan Smith",
-      "web": "http://sonspring.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/nathansmith/unsemantic.git",

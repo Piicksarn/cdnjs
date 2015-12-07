@@ -14,12 +14,6 @@
     "slider"
   ],
   "license": "Apache License, Version 2.0",
-  "maintainers": [
-    {
-      "name": "George Michael Brower",
-      "web": "http://www.georgemichaelbrower.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dataarts/dat.gui.git",

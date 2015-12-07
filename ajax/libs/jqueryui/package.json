@@ -12,11 +12,6 @@
     "themeing",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "JQuery UI Team"
-    }
-  ],
   "namespace": "$.ui",
   "repository": {
     "type": "git",

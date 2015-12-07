@@ -10,13 +10,6 @@
     "scroll",
     "scrollbar"
   ],
-  "maintainers": [
-    {
-      "name": "Hyunje Alex Jun",
-      "email": "me@noraesae.net",
-      "web": "http://noraesae.net"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/noraesae/perfect-scrollbar-bower.git",

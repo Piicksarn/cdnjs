@@ -11,12 +11,6 @@
     "textarea",
     "html5"
   ],
-  "maintainers": [
-    {
-      "name": "Mathias Bynens",
-      "url": "http://mathiasbynens.be"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mathiasbynens/jquery-placeholder.git",

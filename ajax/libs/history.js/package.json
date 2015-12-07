@@ -10,11 +10,6 @@
     "html5",
     "onhashchange"
   ],
-  "maintainers": [
-    {
-      "name": "Andreas Bernhard"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/browserstate/history.js.git"

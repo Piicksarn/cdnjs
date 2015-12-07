@@ -10,13 +10,6 @@
     "jquery",
     "zepto"
   ],
-  "maintainers": [
-    {
-      "name": "&yet",
-      "email": "contact@andyet.net",
-      "web": "http://andyet.net"
-    }
-  ],
   "npmName": "icanhaz",
   "npmFileMap": [
     {

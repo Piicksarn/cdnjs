@@ -10,12 +10,6 @@
     "infinite",
     "masonry"
   ],
-  "maintainers": [
-    {
-      "name": "Luke Shumard",
-      "web": "http://www.lukeshumard.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/infinite-scroll/infinite-scroll.git",

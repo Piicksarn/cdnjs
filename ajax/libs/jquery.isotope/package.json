@@ -11,12 +11,6 @@
     "masonry",
     "layout"
   ],
-  "maintainers": [
-    {
-      "name": "Metafizzy",
-      "web": "http://metafizzy.co/"
-    }
-  ],
   "npmName": "isotope-layout",
   "npmFileMap": [
     {

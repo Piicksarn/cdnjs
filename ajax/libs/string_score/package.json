@@ -10,13 +10,6 @@
     "algorithms",
     "string score"
   ],
-  "maintainers": [
-    {
-      "name": "Joshaven Potter",
-      "email": "yourtech@gmail.com",
-      "web": "http://www.joshaven.com/string_score/"
-    }
-  ],
   "npmName": "string_score",
   "npmFileMap": [
     {

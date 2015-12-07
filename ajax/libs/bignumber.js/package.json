@@ -18,12 +18,6 @@
     "bigint",
     "bignum"
   ],
-  "maintainers": [
-    {
-      "name": "Michael Mclaughlin",
-      "email": "M8ch88l@gmail.com"
-    }
-  ],
   "npmName": "bignumber.js",
   "npmFileMap": [
     {

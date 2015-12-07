@@ -9,12 +9,6 @@
     "responsive",
     "visualization"
   ],
-  "maintainers": [
-    {
-      "name": "NPR Visuals",
-      "url": "https://github.com/nprapps"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/nprapps/pym.js.git",

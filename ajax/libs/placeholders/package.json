@@ -10,12 +10,6 @@
     "placeholder",
     "polyfill"
   ],
-  "maintainers": [
-    {
-      "name": "James Allardice",
-      "web": "<admin@jamesallardice.com>"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jamesallardice/Placeholders.js.git",

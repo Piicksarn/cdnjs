@@ -8,12 +8,6 @@
     "jquery.fileDownload",
     "file download"
   ],
-  "maintainers": [
-    {
-      "name": "John Culviner",
-      "web": "http:/johnculviner.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/johnculviner/jquery.fileDownload"

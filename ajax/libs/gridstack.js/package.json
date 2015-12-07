@@ -10,12 +10,6 @@
     "widgets",
     "layout"
   ],
-  "maintainers": [
-    {
-      "name": "Pavel Reznikov",
-      "web": "http://troolee.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/troolee/gridstack.js.git",

@@ -14,12 +14,6 @@
     "ajax",
     "nodb"
   ],
-  "maintainers": [
-    {
-      "name": "Chris Zarate",
-      "web": "http://chris.zarate.org"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/chriszarate/sheetrock.git",

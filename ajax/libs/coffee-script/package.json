@@ -12,13 +12,6 @@
     "script",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Jeremy Ashkenas",
-      "email": "jashkenas@gmail.com",
-      "web": "http://ashkenas.com/"
-    }
-  ],
   "npmName": "coffee-script",
   "npmFileMap": [
     {

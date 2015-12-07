@@ -10,12 +10,6 @@
     "editor",
     "WYSIWYG"
   ],
-  "maintainers": [
-    {
-      "name": "Alan Hong",
-      "email": "susukang98@gmail.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/summernote/summernote.git",

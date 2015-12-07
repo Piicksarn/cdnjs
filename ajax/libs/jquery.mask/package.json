@@ -10,12 +10,6 @@
     "input",
     "form"
   ],
-  "maintainers": [
-    {
-      "name": "Igor Escobar",
-      "web": "http://about.me/igorescobar"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/igorescobar/jQuery-Mask-Plugin.git",

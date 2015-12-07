@@ -9,12 +9,6 @@
     "confirm",
     "confirmation"
   ],
-  "maintainers": [
-    {
-      "name": "Octavian Ruda",
-      "web": "https://github.com/tavicu"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tavicu/bs-confirmation.git",

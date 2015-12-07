@@ -19,13 +19,6 @@
     "breeze",
     "breeze.js"
   ],
-  "maintainers": [
-    {
-      "name": "IdeaBlade, inc",
-      "email": "breeze@ideablade.com",
-      "web": "http://www.getbreezenow.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Breeze/breeze.js.git"

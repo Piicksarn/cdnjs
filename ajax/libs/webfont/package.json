@@ -12,14 +12,6 @@
     "@font-face",
     "webfontloader"
   ],
-  "maintainers": [
-    {
-      "name": "Google"
-    },
-    {
-      "name": "Typekit"
-    }
-  ],
   "license": "Apache-2.0",
   "autoupdate": {
     "source": "git",

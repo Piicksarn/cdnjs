@@ -8,12 +8,6 @@
     "mermaid",
     "mermaid.js"
   ],
-  "maintainers": [
-    {
-      "name": "KnutSveidqvist",
-      "web": "https://github.com/knsv/mermaid"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/knsv/mermaid.git",

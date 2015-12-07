@@ -13,11 +13,6 @@
     "toolkit",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Yahoo! Inc."
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/yui/yui3.git",

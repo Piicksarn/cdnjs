@@ -9,11 +9,6 @@
     "jquery"
   ],
   "license": "CC-BY-NC-3.0",
-  "maintainers": [
-    {
-      "name": "Trirand"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tonytomov/jqGrid"

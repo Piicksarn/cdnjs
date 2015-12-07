@@ -8,13 +8,6 @@
     "jquery",
     "color"
   ],
-  "maintainers": [
-    {
-      "name": "Corey Frang",
-      "email": "gnarf37@gmail.com",
-      "url": "http://gnarf.net"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jquery/jquery-color.git"

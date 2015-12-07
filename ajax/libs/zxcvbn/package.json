@@ -9,13 +9,6 @@
     "forms",
     "security"
   ],
-  "maintainers": [
-    {
-      "name": "Dan Wheeler",
-      "email": "dan@dropbox.com",
-      "web": "https://github.com/lowe"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dropbox/zxcvbn.git",

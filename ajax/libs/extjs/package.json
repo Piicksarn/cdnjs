@@ -10,12 +10,6 @@
     "desktop",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Sencha",
-      "url": "http://www.sencha.com"
-    }
-  ],
   "licenses": [
     {
       "type": "GNU General Public License Version 3",

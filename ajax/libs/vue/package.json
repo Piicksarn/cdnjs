@@ -10,13 +10,6 @@
     "browser",
     "framework"
   ],
-  "maintainers": [
-    {
-      "name": "Evan You",
-      "email": "yyx990803@gmail.com",
-      "url": "http://evanyou.me"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/vuejs/vue.git",

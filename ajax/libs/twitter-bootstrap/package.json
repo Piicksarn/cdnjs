@@ -24,11 +24,6 @@
     "twitter",
     "bootstrap"
   ],
-  "maintainers": [
-    {
-      "name": "Mark Otto"
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",

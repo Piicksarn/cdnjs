@@ -8,13 +8,6 @@
     "alert",
     "modal"
   ],
-  "maintainers": [
-    {
-      "name": "Tristan Edwards",
-      "email": "tristan.edwards@me.com",
-      "web": "http://tristanedwards.me"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/t4t5/sweetalert.git",

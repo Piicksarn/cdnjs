@@ -14,16 +14,6 @@
     "javascriptbuttons",
     "jsbuttons"
   ],
-  "maintainers": [
-    {
-      "name": "Jeff Harrell",
-      "email": "jeff@juxtadesign.com"
-    },
-    {
-      "name": "Mark Stuart",
-      "email": "stuartmark@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/paypal/JavaScriptButtons"

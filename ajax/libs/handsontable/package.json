@@ -14,12 +14,6 @@
     "handsontable",
     "spreadsheet"
   ],
-  "maintainers": [
-    {
-      "name": "Marcin Warpechowski",
-      "email": "hello@handsontable.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/handsontable/handsontable.git",

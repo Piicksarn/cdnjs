@@ -9,11 +9,6 @@
     "responsive menu",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Josh Cope (Author)"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ComputerWolf/SlickNav.git",

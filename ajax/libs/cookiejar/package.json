@@ -9,16 +9,6 @@
     "cookies",
     "json"
   ],
-  "maintainers": [
-    {
-      "name": "Lalit Patel",
-      "web": "http://www.lalit.org/"
-    },
-    {
-      "name": "Walter Davis",
-      "web": "http://www.walterdavisstudio.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/walterdavis/cookiejar.git"

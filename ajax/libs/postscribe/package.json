@@ -14,12 +14,6 @@
     "email": "dbrans@gmail.com",
     "web": "https://github.com/dbrans"
   },
-  "maintainers": [
-    {
-      "name": "Joshua Newman",
-      "email": "joshua.newman@krux.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/krux/postscribe.git"

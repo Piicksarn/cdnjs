@@ -12,12 +12,6 @@
     "mock",
     "testing"
   ],
-  "maintainers": [
-    {
-      "name": "Christian Johansen",
-      "email": "christian@cjohansen.no"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cjohansen/Sinon.JS"

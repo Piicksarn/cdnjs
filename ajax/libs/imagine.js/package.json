@@ -11,12 +11,6 @@
     "imagine js",
     "library"
   ],
-  "maintainers": [
-    {
-      "name": "Vlad Akilov",
-      "web": "https://github.com/vladakilov"
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",

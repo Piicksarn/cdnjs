@@ -10,12 +10,6 @@
     "map",
     "maps"
   ],
-  "maintainers": [
-    {
-      "name": "Highslide Software",
-      "web": "http://highsoft.com/"
-    }
-  ],
   "license": "CC-BY-NC-3.0",
   "repository": {
     "type": "git",

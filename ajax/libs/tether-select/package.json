@@ -7,9 +7,6 @@
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
     "Zack Bloom <zbloom@hubspot.com>"
   ],
-  "maintainers": [
-    "Nicholas Hwang <nick.joosung.hwang@gmail.com>"
-  ],
   "license": "MIT",
   "dependencies": {
     "tether": "~1.0.2"

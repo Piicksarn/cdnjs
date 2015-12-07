@@ -9,12 +9,6 @@
     "badges",
     "favicon"
   ],
-  "maintainers": [
-    {
-      "name": "Miroslav Magda",
-      "web": "http://blog.ejci.net/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ejci/favico.js.git",

@@ -8,12 +8,6 @@
     "form",
     "validation"
   ],
-  "maintainers": [
-    {
-      "name": "Guillaume Potier",
-      "email": "guillaume@wisembly.com"
-    }
-  ],
   "npmName": "parsleyjs",
   "npmFileMap": [
     {

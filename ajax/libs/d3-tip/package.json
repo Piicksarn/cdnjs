@@ -8,12 +8,6 @@
     "d3",
     "tooltip"
   ],
-  "maintainers": [
-    {
-      "name": "Justin Palmer",
-      "web": "http://labratrevenge.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Caged/d3-tip.git",

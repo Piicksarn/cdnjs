@@ -7,11 +7,6 @@
   "keywords": [
     "twitter"
   ],
-  "maintainers": [
-    {
-      "name": "Remy Sharp"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/remy/twitterlib/"

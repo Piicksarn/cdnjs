@@ -12,12 +12,6 @@
     "buttons",
     "ecommerce"
   ],
-  "maintainers": [
-    {
-      "name": "Jeff Harrell",
-      "email": "jeff@juxtadesign.com"
-    }
-  ],
   "npmName": "minicart",
   "npmFileMap": [
     {

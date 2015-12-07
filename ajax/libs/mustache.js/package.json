@@ -12,13 +12,6 @@
     "template",
     "ejs"
   ],
-  "maintainers": [
-    {
-      "name": "Jan Lehnardt",
-      "email": "jan@apache.org",
-      "web": "http://jan.prima.de/plok/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/janl/mustache.js.git",

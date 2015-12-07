@@ -23,12 +23,6 @@
     "RFC 6570",
     "RFC6570"
   ],
-  "maintainers": [
-    {
-      "name": "Rodney Rehm",
-      "web": "http://rodneyrehm.de/en/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/medialize/URI.js.git",

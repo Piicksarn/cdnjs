@@ -8,12 +8,6 @@
     "url",
     "js-url"
   ],
-  "maintainers": [
-    {
-      "name": "Websanova",
-      "web": "http://www.websanova.com"
-    }
-  ],
   "license": "MIT, GPL",
   "autoupdate": {
     "source": "git",

@@ -9,12 +9,6 @@
     "bootstrap",
     "colorpicker"
   ],
-  "maintainers": [
-    {
-      "name": "Javier Aguilar",
-      "web": "https://github.com/mjolnic"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mjolnic/bootstrap-colorpicker.git",

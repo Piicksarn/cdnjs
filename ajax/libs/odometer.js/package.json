@@ -8,12 +8,6 @@
     "numbers",
     "transition"
   ],
-  "maintainers": [
-    {
-      "name": "HubSpot",
-      "web": "http://hubspot.com"
-    }
-  ],
   "npmName": "odometer",
   "npmFileMap": [
     {

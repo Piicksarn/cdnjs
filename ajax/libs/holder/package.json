@@ -12,11 +12,6 @@
     "generation",
     "development"
   ],
-  "maintainers": [
-    {
-      "name": "Ivan Malopinsky"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/imsky/holder.git",

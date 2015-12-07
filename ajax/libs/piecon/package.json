@@ -10,12 +10,6 @@
     "progress",
     "chart"
   ],
-  "maintainers": [
-    {
-      "name": "Lukas Lipka",
-      "web": "http://lipka.github.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/lipka/piecon.git",

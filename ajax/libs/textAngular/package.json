@@ -10,11 +10,6 @@
     "WYSIWYG",
     "directive"
   ],
-  "maintainers": [
-    {
-      "name": "SimeonC"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/fraywing/textAngular.git",

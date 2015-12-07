@@ -10,12 +10,6 @@
     "template",
     "data-binding"
   ],
-  "maintainers": [
-    {
-      "name": "Rich Harris",
-      "web": "http://www.rich-harris.co.uk/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ractivejs/ractive.git"

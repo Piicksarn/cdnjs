@@ -12,12 +12,6 @@
     "auth",
     "authentication"
   ],
-  "maintainers": [
-    {
-      "name": "heartsentwined",
-      "email": "heartsentwined.me@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/heartsentwined/ember-auth"

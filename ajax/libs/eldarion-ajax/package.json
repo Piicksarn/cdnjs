@@ -7,12 +7,6 @@
   "keywords": [
     "ajax"
   ],
-  "maintainers": [
-    {
-      "name": "Patrick Altman",
-      "web": "http://eldarion.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/eldarion/eldarion-ajax.git"

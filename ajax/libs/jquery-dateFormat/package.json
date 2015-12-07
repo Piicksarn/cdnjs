@@ -10,12 +10,6 @@
     "date",
     "format"
   ],
-  "maintainers": [
-    {
-      "name": "Pablo Cantero",
-      "web": "http://www.pablocantero.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/phstc/jquery-dateFormat.git"

@@ -8,11 +8,6 @@
     "raven",
     "sentry"
   ],
-  "maintainers": [
-    {
-      "name": "Matt Robenolt"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/getsentry/raven-js.git",

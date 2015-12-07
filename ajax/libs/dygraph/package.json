@@ -9,11 +9,6 @@
     "charts",
     "interactive"
   ],
-  "maintainers": [
-    {
-      "name": "Dan Vanderkam"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/danvk/dygraphs.git",

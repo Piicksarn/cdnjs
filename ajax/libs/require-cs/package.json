@@ -9,13 +9,6 @@
     "coffeescript",
     "coffee"
   ],
-  "maintainers": [
-    {
-      "name": "James Burke",
-      "email": "jrburke@gmail.com",
-      "web": "http://tagneto.blogspot.ru/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/requirejs/require-cs.git",

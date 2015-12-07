@@ -11,12 +11,6 @@
     "superfish",
     "super fish"
   ],
-  "maintainers": [
-    {
-      "name": "Joel Birch",
-      "web": "http://users.tpg.com.au/j_birch/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/joeldbirch/superfish.git",

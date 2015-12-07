@@ -16,12 +16,6 @@
     "ui",
     "jQuery"
   ],
-  "maintainers": [
-    {
-      "name": "Jack Moore",
-      "web": "http://www.jacklmoore.com"
-    }
-  ],
   "licenses": "MIT",
   "autoupdate": {
     "source": "git",

@@ -8,12 +8,6 @@
     "jquery",
     "crop"
   ],
-  "maintainers": [
-    {
-      "name": "Kelly Hallman",
-      "web": "http://deepliquid.com/blog/"
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",

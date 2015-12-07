@@ -8,11 +8,6 @@
     "table",
     "sorting"
   ],
-  "maintainers": [
-    {
-      "name": "Tristen"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/tristen/tablesort.git",

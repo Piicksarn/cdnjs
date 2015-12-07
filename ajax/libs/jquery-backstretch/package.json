@@ -10,13 +10,6 @@
     "photo",
     "stretch"
   ],
-  "maintainers": [
-    {
-      "name": "Scott Robbin",
-      "email": "scott@robbin.co",
-      "web": "http://srobbin.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/srobbin/jquery-backstretch"

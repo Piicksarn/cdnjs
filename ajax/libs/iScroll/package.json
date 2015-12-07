@@ -13,12 +13,6 @@
     "mobile",
     "desktop"
   ],
-  "maintainers": [
-    {
-      "name": "Matteo Spinelli",
-      "url": "http://cubiq.org"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cubiq/iscroll.git",

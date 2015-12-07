@@ -9,12 +9,6 @@
     "player",
     "html5"
   ],
-  "maintainers": [
-    {
-      "name": "John Dyer",
-      "web": "http://j.hn/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/johndyer/mediaelement.git",

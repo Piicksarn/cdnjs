@@ -10,12 +10,6 @@
     "dialog",
     "noty"
   ],
-  "maintainers": [
-    {
-      "name": "Nedim Arabacı",
-      "web": "http://ned.im"
-    }
-  ],
   "npmName": "noty",
   "npmFileMap": [
     {

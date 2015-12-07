@@ -9,20 +9,6 @@
     "responsive",
     "zurb"
   ],
-  "maintainers": [
-    {
-      "name": "Chris Michel",
-      "web": "http://www.zurb.com/about/profile/chris-michel"
-    },
-    {
-      "name": "Jordan Humphreys",
-      "web": "http://www.zurb.com/about/profile/jordan-humphreys"
-    },
-    {
-      "name": "Mark Hayes",
-      "web": "http://www.zurb.com/about/profile/mark-hayes"
-    }
-  ],
   "namespace": "$.fn.foundation",
   "license": "MIT",
   "repository": {

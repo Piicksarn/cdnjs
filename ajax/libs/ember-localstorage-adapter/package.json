@@ -7,12 +7,6 @@
   "keywords": [
     "ember-localstorage-adapter"
   ],
-  "maintainers": [
-    {
-      "name": "ember-localstorage-adapter.js",
-      "web": "https://github.com/kurko/ember-localstorage-adapter"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kurko/ember-localstorage-adapter"

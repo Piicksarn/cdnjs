@@ -9,12 +9,6 @@
     "editor",
     "wysiwyg"
   ],
-  "maintainers": [
-    {
-      "name": "TinyMCE",
-      "web": "http://www.tinymce.com"
-    }
-  ],
   "npmName": "tinymce",
   "npmFileMap": [
     {

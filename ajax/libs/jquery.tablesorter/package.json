@@ -17,13 +17,6 @@
     "alphanumeric",
     "natural"
   ],
-  "maintainers": [
-    {
-      "name": "Rob Garrison",
-      "url": "https://github.com/Mottie",
-      "email": "wowmotty@gmail.com"
-    }
-  ],
   "licenses": [
     "MIT",
     {

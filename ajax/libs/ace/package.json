@@ -8,11 +8,6 @@
     "code",
     "editor"
   ],
-  "maintainers": [
-    {
-      "name": "The Ace Project"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ajaxorg/ace-builds.git",

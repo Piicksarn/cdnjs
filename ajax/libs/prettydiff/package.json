@@ -26,12 +26,6 @@
     "type": "git",
     "url": "git://github.com/prettydiff/prettydiff.git"
   },
-  "maintainers": [
-    {
-      "name": "austincheney",
-      "email": "info@prettydiff.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/prettydiff/prettydiff.git",

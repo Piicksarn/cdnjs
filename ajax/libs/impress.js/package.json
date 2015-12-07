@@ -9,12 +9,6 @@
     "slides",
     "css3"
   ],
-  "maintainers": [
-    {
-      "name": "Bartek Szopka",
-      "web": "http://bartaz.github.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/impress/impress.js.git"

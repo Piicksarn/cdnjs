@@ -9,11 +9,6 @@
     "node",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "LearnBoost"
-    }
-  ],
   "npmName": "socket.io-client",
   "npmFileMap": [
     {

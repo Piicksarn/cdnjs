@@ -12,11 +12,6 @@
     "toolkit",
     "api"
   ],
-  "maintainers": [
-    {
-      "name": "Wordnik"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/swagger-api/swagger-ui.git",

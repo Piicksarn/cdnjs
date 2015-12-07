@@ -9,12 +9,6 @@
     "form",
     "mask"
   ],
-  "maintainers": [
-    {
-      "name": "Josh Bush",
-      "web": "http://digitalbush.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/digitalBush/jquery.maskedinput.git",

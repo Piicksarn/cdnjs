@@ -11,13 +11,6 @@
     "ui",
     "ajax"
   ],
-  "maintainers": [
-    {
-      "name": "Brian Reavis",
-      "email": "brian@thirdroute.com",
-      "web": "https://github.com/brianreavis"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/brianreavis/selectize.js.git",

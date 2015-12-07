@@ -8,13 +8,6 @@
     "html5",
     "canvas"
   ],
-  "maintainers": [
-    {
-      "name": "Johannes Koggdal",
-      "twitter": "JohannesKoggdal",
-      "web": "http://koggdal.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/koggdal/ocanvas.git",

@@ -22,12 +22,6 @@
     "models",
     "views"
   ],
-  "maintainers": [
-    {
-      "name": "Thomas Pedersen",
-      "web": "http://thedersen.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/thedersen/backbone.validation.git"

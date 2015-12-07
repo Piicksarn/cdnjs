@@ -8,11 +8,6 @@
     "matreshka",
     "framework"
   ],
-  "maintainers": [
-    {
-      "name": "Andrey Gubanov"
-    }
-  ],
   "npmName": "matreshka",
   "npmFileMap": [
     {

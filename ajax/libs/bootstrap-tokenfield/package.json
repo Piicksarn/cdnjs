@@ -15,12 +15,6 @@
     "select",
     "form"
   ],
-  "maintainers": [
-    {
-      "name": "ragulka",
-      "web": "https://github.com/ragulka"
-    }
-  ],
   "npmName": "bootstrap-tokenfield",
   "npmFileMap": [
     {

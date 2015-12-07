@@ -8,13 +8,6 @@
     "backbone",
     "pagination"
   ],
-  "maintainers": [
-    {
-      "name": "Addy Osmani",
-      "email": "addyosmani@gmail.com",
-      "web": "http://www.addyosmani.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/backbone-paginator/backbone.paginator.git"

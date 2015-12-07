@@ -14,23 +14,6 @@
     "html5",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Faruk Ates"
-    },
-    {
-      "name": "Alex Sexton"
-    },
-    {
-      "name": "Paul Irish"
-    },
-    {
-      "name": "Ryan Seddon"
-    },
-    {
-      "name": "Alexander Farkas"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/Modernizr/Modernizr.git",

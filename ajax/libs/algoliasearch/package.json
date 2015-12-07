@@ -12,12 +12,6 @@
     "realtime",
     "autocomplete"
   ],
-  "maintainers": [
-    {
-      "name": "Algolia",
-      "url": "https://www.algolia.com"
-    }
-  ],
   "npmName": "algoliasearch",
   "npmFileMap": [
     {

@@ -10,12 +10,6 @@
     "dom",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Ben Alman",
-      "web": "http://benalman.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cowboy/jquery-replacetext"

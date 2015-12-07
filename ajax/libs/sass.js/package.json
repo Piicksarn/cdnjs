@@ -8,12 +8,6 @@
     "css",
     "css3"
   ],
-  "maintainers": [
-    {
-      "name": "Rodney Rehm",
-      "web": "http://rodneyrehm.de/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/medialize/sass.js.git",

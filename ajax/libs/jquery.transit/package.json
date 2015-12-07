@@ -10,12 +10,6 @@
     "transformations",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Rico Sta. Cruz",
-      "web": "http://ricostacruz.com"
-    }
-  ],
   "npmName": "jquery.transit",
   "npmFileMap": [
     {

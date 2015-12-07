@@ -8,12 +8,6 @@
     "maps"
   ],
   "homepage": "http://hpneo.github.io/gmaps/",
-  "maintainers": [
-    {
-      "name": "Gustavo Leon",
-      "web": "http://hpneo.github.io/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/hpneo/gmaps.git",

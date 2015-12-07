@@ -16,12 +16,6 @@
   "dependencies": {
     "jquery": ">=1.8"
   },
-  "maintainers": [
-    {
-      "name": "Ariel Flesler",
-      "web": "http://flesler.blogspot.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/flesler/jquery.scrollTo.git",

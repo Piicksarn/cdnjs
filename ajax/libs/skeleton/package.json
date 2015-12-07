@@ -10,12 +10,6 @@
     "grid",
     "responsive"
   ],
-  "maintainers": [
-    {
-      "name": "Dave Gamache",
-      "url": "https://github.com/dhg"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dhg/Skeleton.git",

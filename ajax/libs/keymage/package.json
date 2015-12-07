@@ -8,13 +8,6 @@
     "keymage",
     "key-binding"
   ],
-  "maintainers": [
-    {
-      "name": "Alexander Solovyov",
-      "email": "alexander@solovyov.net",
-      "web": "http://solovyov.net/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/piranha/keymage.git",

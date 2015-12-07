@@ -9,11 +9,6 @@
     "time",
     "jquery-ui"
   ],
-  "maintainers": [
-    {
-      "name": "Trent Richardson"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/trentrichardson/jQuery-Timepicker-Addon"

@@ -12,12 +12,6 @@
     "hasOne",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Paul Uithol",
-      "web": "http://progressivecompany.nl/"
-    }
-  ],
   "npmName": "backbone-relational",
   "npmFileMap": [
     {

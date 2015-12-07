@@ -7,13 +7,6 @@
   "keywords": [
     "include"
   ],
-  "maintainers": [
-    {
-      "name": "Mark Nottingham",
-      "email": "mnot@mnot.net",
-      "web": "http://www.mnot.net/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mnot/hinclude"

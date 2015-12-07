@@ -8,12 +8,6 @@
     "ember",
     "ember.js"
   ],
-  "maintainers": [
-    {
-      "name": "Ember.js",
-      "web": "http://emberjs.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/components/ember.git",

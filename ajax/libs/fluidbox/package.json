@@ -11,13 +11,6 @@
       "homagepage": "http://terrymun.com"
     }
   ],
-  "maintainers": [
-    {
-      "name": "Terry Mun",
-      "email": "hello@terrymun.com",
-      "homagepage": "http://terrymun.com"
-    }
-  ],
   "keywords": [
     "fluidbox",
     "fluidbox.js",

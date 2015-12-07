@@ -9,12 +9,6 @@
     "bootstrap",
     "datepicker"
   ],
-  "maintainers": [
-    {
-      "name": "Andrew Rowls",
-      "web": "https://github.com/eternicode"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/eternicode/bootstrap-datepicker.git",

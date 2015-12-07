@@ -11,11 +11,6 @@
     "navigation",
     "CSS3"
   ],
-  "maintainers": [
-    {
-      "name": "Viljami Salminen"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/viljamis/responsive-nav.js.git",

@@ -8,12 +8,6 @@
     "screenfull",
     "fullscreen"
   ],
-  "maintainers": [
-    {
-      "name": "Sindre Sorhus",
-      "web": "http://sindresorhus.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sindresorhus/screenfull.js.git",

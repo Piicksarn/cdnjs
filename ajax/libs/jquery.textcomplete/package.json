@@ -8,11 +8,6 @@
   "keywords": [
     "jquery.textcomplete"
   ],
-  "maintainers": [
-    {
-      "name": "Yuku Takahashi <taka84u9@gmail.com>"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/yuku-t/jquery-textcomplete.git"

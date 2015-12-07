@@ -9,11 +9,6 @@
     "presentation",
     "micro-framework"
   ],
-  "maintainers": [
-    {
-      "name": "Mark Dalgleish"
-    }
-  ],
   "npmName": "bespoke",
   "npmFileMap": [
     {

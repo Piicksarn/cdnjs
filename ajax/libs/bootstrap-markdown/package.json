@@ -10,12 +10,6 @@
     "markdown",
     "editor"
   ],
-  "maintainers": [
-    {
-      "name": "Taufan Aditya",
-      "web": "https://github.com/toopay"
-    }
-  ],
   "npmName": "bootstrap-markdown",
   "npmFileMap": [
     {

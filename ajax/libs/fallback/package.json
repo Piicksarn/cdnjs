@@ -12,13 +12,6 @@
     "ajax",
     "component"
   ],
-  "maintainers": [
-    {
-      "name": "Salvatore Garbesi",
-      "email": "sal@dolox.com",
-      "twitter": "sgarbesi"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/dolox/fallback.git"

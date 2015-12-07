@@ -9,12 +9,6 @@
     "bootstrap",
     "validator"
   ],
-  "maintainers": [
-    {
-      "name": "Nguyen Huu Phuoc",
-      "web": "https://github.com/nghuuphuoc"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/nghuuphuoc/bootstrapvalidator.git"

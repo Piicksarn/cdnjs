@@ -7,9 +7,6 @@
     "Zack Bloom <zackbloom@gmail.com>",
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>"
   ],
-  "maintainers": [
-    "Nicholas Hwang <nick.joosung.hwang@gmail.com>"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/HubSpot/drop.git"

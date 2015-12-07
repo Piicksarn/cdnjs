@@ -9,11 +9,6 @@
     "toaster",
     "notifications"
   ],
-  "maintainers": [
-    {
-      "name": "jirikavi"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jirikavi/AngularJS-Toaster.git",

@@ -9,11 +9,6 @@
     "leaflet",
     "data visualization"
   ],
-  "maintainers": [
-    {
-      "name": "HumanGeo"
-    }
-  ],
   "npmName": "leaflet-dvf",
   "npmFileMap": [
     {

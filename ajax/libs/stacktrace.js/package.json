@@ -11,13 +11,6 @@
     "browser"
   ],
   "homepage": "http://stacktracejs.com",
-  "maintainers": [
-    {
-      "name": "Eric Wendelin",
-      "email": "me@eriwen.com",
-      "web": "http://www.eriwen.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/stacktracejs/stacktrace.js.git"

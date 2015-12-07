@@ -11,13 +11,6 @@
     "events",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Jeremy Ashkenas",
-      "email": "jashkenas@gmail.com",
-      "web": "http://ashkenas.com/"
-    }
-  ],
   "npmName": "backbone",
   "npmFileMap": [
     {

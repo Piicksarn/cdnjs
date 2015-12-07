@@ -12,15 +12,5 @@
     "type": "git",
     "url": "https://github.com/mirlord/jquery-csv"
   },
-  "maintainers": [
-    {
-      "name": "Evan Plaice",
-      "web": "http://code.google.com/p/jquery-csv/"
-    },
-    {
-      "name": "Evan Plaice",
-      "web": "https://github.com/mirlord/jquery-csv"
-    }
-  ],
   "license": "MIT"
 }

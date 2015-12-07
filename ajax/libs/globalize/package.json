@@ -28,18 +28,6 @@
   ],
   "homepage": "https://github.com/jquery/globalize",
   "author": "The jQuery Project",
-  "maintainers": [
-    {
-      "name": "Jörn Zaefferer",
-      "email": "joern.zaefferer@gmail.com",
-      "url": "http://bassistance.de"
-    },
-    {
-      "name": "Rafael Xavier de Souza",
-      "email": "rxaviers@gmail.com",
-      "url": "http://rafael.xavier.blog.br"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jquery/globalize.git"

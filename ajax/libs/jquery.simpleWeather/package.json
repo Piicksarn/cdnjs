@@ -8,12 +8,6 @@
     "weather",
     "weather-data"
   ],
-  "maintainers": [
-    {
-      "name": "James Fleeting",
-      "web": "http://jamesfleeting.com"
-    }
-  ],
   "npmName": "simpleweather",
   "npmFileMap": [
     {

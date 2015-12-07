@@ -8,12 +8,6 @@
     "name": "Mark Dalgleish",
     "url": "http://markdalgleish.com"
   },
-  "maintainers": [
-    {
-      "name": "Mark Dalgleish",
-      "url": "http://markdalgleish.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/markdalgleish/stellar.js.git"

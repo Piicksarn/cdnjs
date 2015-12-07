@@ -8,12 +8,6 @@
     "humane",
     "humane-js"
   ],
-  "maintainers": [
-    {
-      "name": "Marc Harter",
-      "email": "wavded@gmail.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/wavded/humane-js.git",

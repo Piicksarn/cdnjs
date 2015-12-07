@@ -8,11 +8,6 @@
     "html5",
     "canvas"
   ],
-  "maintainers": [
-    {
-      "name": "Eric Rowell"
-    }
-  ],
   "npmName": "kinetic",
   "npmFileMap": [
     {

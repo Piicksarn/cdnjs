@@ -15,13 +15,6 @@
     "controller",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Bitovi",
-      "email": "contact@bitovi.com",
-      "web": "http://bitovi.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/bitovi/canjs"

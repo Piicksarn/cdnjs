@@ -15,12 +15,6 @@
     "data-binding",
     "view"
   ],
-  "maintainers": [
-    {
-      "name": "Yang Zhang",
-      "web": "http://yz.mit.edu"
-    }
-  ],
   "dependencies": {
     "underscore": ">=1.4.4",
     "jquery": ">=1.7.0"

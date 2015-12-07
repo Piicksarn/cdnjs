@@ -9,13 +9,6 @@
     "conditional",
     "preconditions"
   ],
-  "maintainers": [
-    {
-      "name": "Anshul Verma",
-      "email": "anshul.verma86@gmail.com",
-      "web": "http://anshulverma.net/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/anshulverma/conditional.git",

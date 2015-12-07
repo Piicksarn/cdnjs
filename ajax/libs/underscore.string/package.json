@@ -9,17 +9,6 @@
     "string",
     "underscore"
   ],
-  "maintainers": [
-    {
-      "name": "Esa-Matti Suuronen",
-      "email": "esa-matti@suuronen.org",
-      "web": "http://esa-matti.suuronen.org"
-    },
-    {
-      "name": "Edward Tsech",
-      "email": "edtsech@gmail.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/epeli/underscore.string.git",

@@ -8,13 +8,6 @@
     "utility",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Jeremy Ashkenas",
-      "email": "jashkenas@gmail.com",
-      "web": "http://ashkenas.com/"
-    }
-  ],
   "namespace": "_",
   "autoupdate": {
     "source": "git",

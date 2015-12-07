@@ -30,12 +30,6 @@
     "key-pressed": "0.0.1",
     "keydown": "0.0.3"
   },
-  "maintainers": [
-    {
-      "name": "maurizzzio",
-      "email": "mauricio.poppe@gmail.com"
-    }
-  ],
   "npmName": "function-plot",
   "npmFileMap": [
     {

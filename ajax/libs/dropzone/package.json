@@ -9,12 +9,6 @@
     "file",
     "upload"
   ],
-  "maintainers": [
-    {
-      "name": "Matias Meno",
-      "web": "https://github.com/enyo"
-    }
-  ],
   "npmName": "dropzone",
   "npmFileMap": [
     {

@@ -8,11 +8,6 @@
     "fps",
     "framerate"
   ],
-  "maintainers": [
-    {
-      "name": "Mr. Doob"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mrdoob/stats.js.git",

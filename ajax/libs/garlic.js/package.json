@@ -9,13 +9,6 @@
     "form",
     "forms"
   ],
-  "maintainers": [
-    {
-      "name": "Guillaume Potier",
-      "email": "guillaume@wisembly.com",
-      "web": "http://guillaumepotier.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/guillaumepotier/Garlic.js.git",

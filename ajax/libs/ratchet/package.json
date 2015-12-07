@@ -8,17 +8,6 @@
     "mobile",
     "components"
   ],
-  "maintainers": [
-    {
-      "name": "Dave Gamache"
-    },
-    {
-      "name": "Connor Sears"
-    },
-    {
-      "name": "Jacob Thornon"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/twbs/ratchet.git",

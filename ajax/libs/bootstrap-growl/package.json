@@ -10,11 +10,6 @@
     "notification",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Nick Larson"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ifightcrime/bootstrap-growl.git"

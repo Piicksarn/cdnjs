@@ -9,12 +9,6 @@
     "social networks",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Christian Vuerings",
-      "web": "http://denbuzze.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/christianv/jquery-lifestream.git"

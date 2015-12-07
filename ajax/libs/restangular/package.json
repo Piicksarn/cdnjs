@@ -27,12 +27,6 @@
     "rest",
     "api"
   ],
-  "maintainers": [
-    {
-      "name": "Martin Gontovnikas",
-      "website": "http://gon.to/"
-    }
-  ],
   "dependencies": {},
   "license": "MIT"
 }

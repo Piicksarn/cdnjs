@@ -7,14 +7,6 @@
   "keywords": [
     "timeline"
   ],
-  "maintainers": [
-    {
-      "name": "Knight Lab"
-    },
-    {
-      "name": "Knight Lab"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/NUKnightLab/TimelineJS.git",

@@ -11,12 +11,6 @@
     "commands manager",
     "history"
   ],
-  "maintainers": [
-    {
-      "name": "Etienne Lemay",
-      "web": "http://heliom.ca"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/EtienneLem/commandz.git",

@@ -8,12 +8,6 @@
     "video",
     "videojs"
   ],
-  "maintainers": [
-    {
-      "name": "videojs",
-      "web": "https://github.com/videojs"
-    }
-  ],
   "npmName": "video.js",
   "npmFileMap": [
     {

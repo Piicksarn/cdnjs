@@ -11,16 +11,6 @@
     "svg",
     "html5"
   ],
-  "maintainers": [
-    {
-      "name": "Juriy Zaytsev",
-      "web": "https://github.com/kangax"
-    },
-    {
-      "name": "Stefan Kienzle",
-      "web": "https://github.com/Kienz"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kangax/fabric.js.git",

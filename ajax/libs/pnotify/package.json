@@ -15,11 +15,6 @@
     "bootstrap",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "SciActive"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sciactive/pnotify.git",

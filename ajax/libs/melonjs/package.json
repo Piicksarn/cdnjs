@@ -7,12 +7,6 @@
   "keywords": [
     "melonjs"
   ],
-  "maintainers": [
-    {
-      "name": "melonjs",
-      "web": "https://github.com/melonjs"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/melonjs/melonJS.git"

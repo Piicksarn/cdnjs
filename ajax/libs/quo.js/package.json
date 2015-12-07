@@ -8,13 +8,6 @@
     "mobile",
     "touch"
   ],
-  "maintainers": [
-    {
-      "name": "soyjavi",
-      "email": "javi@tapquo.com",
-      "web": "http://www.tapquo.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/soyjavi/QuoJS"

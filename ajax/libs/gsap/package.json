@@ -22,13 +22,6 @@
     "transform",
     "tweening"
   ],
-  "maintainers": [
-    {
-      "name": "Jack Doyle",
-      "email": "jack@greensock.com",
-      "web": "http://www.greensock.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/greensock/GreenSock-JS.git",

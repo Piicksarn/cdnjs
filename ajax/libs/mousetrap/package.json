@@ -9,11 +9,6 @@
     "shortcut",
     "mouse"
   ],
-  "maintainers": [
-    {
-      "name": "Craig Campbell"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ccampbell/mousetrap.git"

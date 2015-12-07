@@ -17,13 +17,6 @@
     "email": "matteo@open-lab.com",
     "url": "http://pupunzi.com"
   },
-  "maintainers": [
-    {
-      "name": "Pupunzi (Matteo Bicocchi)",
-      "email": "matteo@open-lab.com",
-      "url": "http://pupunzi.open-lab.com"
-    }
-  ],
   "licenses": [
     "MIT",
     {

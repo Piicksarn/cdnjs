@@ -10,12 +10,6 @@
     "float",
     "grid"
   ],
-  "maintainers": [
-    {
-      "name": "David DeSandro",
-      "web": "http://desandro.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/desandro/masonry.git",

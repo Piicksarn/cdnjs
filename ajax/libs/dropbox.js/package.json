@@ -9,13 +9,6 @@
     "filesystem",
     "storage"
   ],
-  "maintainers": [
-    {
-      "name": "Victor Costan",
-      "email": "victor@costan.us",
-      "web": "http://www.costan.us"
-    }
-  ],
   "npmName": "dropbox",
   "npmFileMap": [
     {

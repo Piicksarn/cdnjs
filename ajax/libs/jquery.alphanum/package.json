@@ -16,13 +16,6 @@
   ],
   "license": "GPL-2.0",
   "author": "Kevin Sheedy",
-  "maintainers": [
-    {
-      "name": "Kevin Sheedy",
-      "email": "jquery.alphanum@gmail.com",
-      "url": "https://github.com/KevinSheedy/jquery.alphanum"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/KevinSheedy/jquery.alphanum"

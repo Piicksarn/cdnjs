@@ -10,12 +10,6 @@
     "postal code",
     "postcodify"
   ],
-  "maintainers": [
-    {
-      "name": "Kijin Sung",
-      "email": "root@poesis.kr"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/kijin/postcodify.git",

@@ -9,12 +9,6 @@
     "responsive slider",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Viljami Salminen (Author)",
-      "web": "http://viljamis.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/viljamis/ResponsiveSlides.js"

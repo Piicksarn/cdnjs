@@ -11,12 +11,6 @@
     "html",
     "indentation"
   ],
-  "maintainers": [
-    {
-      "name": "Emblem.js",
-      "web": "http://emblemjs.com/"
-    }
-  ],
   "npmName": "emblem",
   "npmFileMap": [
     {

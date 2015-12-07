@@ -12,11 +12,6 @@
     "money",
     "percentage"
   ],
-  "maintainers": [
-    {
-      "name": "Adam Draper"
-    }
-  ],
   "npmName": "numeral",
   "npmFileMap": [
     {

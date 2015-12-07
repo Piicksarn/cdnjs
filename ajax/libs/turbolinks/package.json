@@ -8,11 +8,6 @@
     "rails",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "The Ruby on Rails Project"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rails/turbolinks.git"

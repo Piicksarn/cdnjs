@@ -10,12 +10,6 @@
     "time",
     "charts"
   ],
-  "maintainers": [
-    {
-      "name": "Olly Smith",
-      "url": "http://www.oesmith.co.uk"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/morrisjs/morris.js.git",

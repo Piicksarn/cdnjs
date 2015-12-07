@@ -16,11 +16,6 @@
   "version": "0.9.8",
   "description": "Buttons with built-in loading indicators",
   "homepage": "http://lab.hakim.se/ladda",
-  "maintainers": [
-    {
-      "name": "Hakim El Hattab"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/hakimel/Ladda.git"

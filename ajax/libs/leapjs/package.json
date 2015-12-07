@@ -8,12 +8,6 @@
     "graphics",
     "leap"
   ],
-  "maintainers": [
-    {
-      "name": "joshbuddy",
-      "email": "josh@leapmotion.com"
-    }
-  ],
   "npmName": "leapjs",
   "npmFileMap": [
     {

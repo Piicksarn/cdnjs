@@ -8,12 +8,6 @@
     "js",
     "WebRTC"
   ],
-  "maintainers": [
-    {
-      "name": "PeerJS",
-      "web": "http://peerjs.com/"
-    }
-  ],
   "npmName": "peerjs",
   "npmFileMap": [
     {

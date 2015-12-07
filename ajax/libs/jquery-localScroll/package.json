@@ -17,12 +17,6 @@
     "jquery": ">=1.8",
     "scrollTo": ">=1.4.11"
   },
-  "maintainers": [
-    {
-      "name": "Ariel Flesler",
-      "url": "http://flesler.blogspot.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/flesler/jquery.localScroll.git",

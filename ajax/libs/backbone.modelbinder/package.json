@@ -9,13 +9,6 @@
     "models",
     "events"
   ],
-  "maintainers": [
-    {
-      "name": "Bart Wood",
-      "email": "bartwood@gmail.com",
-      "web": "https://github.com/theironcook"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/theironcook/Backbone.ModelBinder.git",

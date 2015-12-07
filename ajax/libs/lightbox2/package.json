@@ -10,12 +10,6 @@
     "image",
     "enlarge"
   ],
-  "maintainers": [
-    {
-      "name": "Lokesh Dhakar",
-      "web": "http://lokeshdhakar.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/lokesh/lightbox2.git",

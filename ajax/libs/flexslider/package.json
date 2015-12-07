@@ -8,12 +8,6 @@
     "utility",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "WooThemes",
-      "web": "http://www.woothemes.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/woothemes/FlexSlider.git",

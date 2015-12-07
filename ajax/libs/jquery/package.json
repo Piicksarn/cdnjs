@@ -21,11 +21,6 @@
     "toolkit",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "The jQuery Project"
-    }
-  ],
   "namespace": "jQuery",
   "repository": {
     "type": "git",

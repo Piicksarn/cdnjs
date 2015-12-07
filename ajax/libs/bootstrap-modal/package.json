@@ -8,11 +8,6 @@
     "bootstrap",
     "modal"
   ],
-  "maintainers": [
-    {
-      "name": "Jordan Schroter"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jschr/bootstrap-modal.git",

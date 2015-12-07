@@ -9,13 +9,6 @@
     "editable",
     "edit-in-place"
   ],
-  "maintainers": [
-    {
-      "name": "Vitaliy Potapov",
-      "email": "noginsk@rambler.ru",
-      "web": "https://github.com/vitalets"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/vitalets/x-editable"

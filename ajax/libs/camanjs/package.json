@@ -13,12 +13,6 @@
     "pixel",
     "effects"
   ],
-  "maintainers": [
-    {
-      "name": "Ryan LeFevre",
-      "website": "http://meltingice.net"
-    }
-  ],
   "npmName": "caman",
   "npmFileMap": [
     {

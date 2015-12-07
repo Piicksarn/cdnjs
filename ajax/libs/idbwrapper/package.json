@@ -9,13 +9,6 @@
     "storage",
     "offline"
   ],
-  "maintainers": [
-    {
-      "name": "Jens Arps",
-      "email": "mail@jensarps.de",
-      "web": "http://jensarps.de/"
-    }
-  ],
   "npmName": "idb-wrapper",
   "npmFileMap": [
     {

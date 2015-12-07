@@ -10,16 +10,6 @@
     "lion",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "James Florentino",
-      "web": "http://jamesflorentino.com"
-    },
-    {
-      "name": "Krister Kari",
-      "web": "http://krister.fi/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jamesflorentino/nanoScrollerJS.git",

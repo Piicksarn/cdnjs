@@ -9,11 +9,6 @@
     "social",
     "buttons"
   ],
-  "maintainers": [
-    {
-      "name": "Lipis"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/lipis/bootstrap-social.git",

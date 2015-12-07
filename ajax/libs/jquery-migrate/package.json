@@ -9,11 +9,6 @@
     "toolkit",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "The jQuery Project"
-    }
-  ],
   "dependencies": {
     "jquery": ">=1.6.4"
   },

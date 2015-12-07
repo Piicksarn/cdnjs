@@ -8,13 +8,6 @@
     "jquery",
     "history"
   ],
-  "maintainers": [
-    {
-      "name": "Ben Alman",
-      "email": "cowboy@rj3.net",
-      "web": "http://benalman.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cowboy/jquery-hashchange"

@@ -9,12 +9,6 @@
     "slideshow",
     "animation"
   ],
-  "maintainers": [
-    {
-      "name": "Jan Sorgalla",
-      "web": "http://sorgalla.com"
-    }
-  ],
   "namespace": [
     "$.jcarousel",
     "$.fn.jcarousel"

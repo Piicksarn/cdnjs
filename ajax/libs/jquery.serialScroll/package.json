@@ -19,13 +19,6 @@
     "email": "aflesler@gmail.com",
     "url": "http://flesler.blogspot.com"
   },
-  "maintainers": [
-    {
-      "name": "Ariel Flesler",
-      "email": "aflesler@gmail.com",
-      "url": "http://flesler.blogspot.com"
-    }
-  ],
   "homepage": "https://github.com/flesler/jquery.serialScroll",
   "docs": "http://flesler.blogspot.com/2008/02/jqueryserialscroll.html",
   "download": "https://github.com/flesler/jquery.serialScroll/releases",

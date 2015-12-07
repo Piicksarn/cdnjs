@@ -11,12 +11,6 @@
     "masonry",
     "nogaps"
   ],
-  "maintainers": [
-    {
-      "name": "David DeSandro",
-      "web": "http://desandro.com"
-    }
-  ],
   "npmName": "packery",
   "npmFileMap": [
     {

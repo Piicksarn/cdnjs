@@ -10,12 +10,6 @@
     "video",
     "html5"
   ],
-  "maintainers": [
-    {
-      "name": "soulwire",
-      "web": "https://github.com/soulwire/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/soulwire/sketch.js.git",

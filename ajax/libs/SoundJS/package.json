@@ -9,12 +9,6 @@
     "audio",
     "webAudio"
   ],
-  "maintainers": [
-    {
-      "name": "SoundJS",
-      "web": "http://www.createjs.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/CreateJS/SoundJS.git"

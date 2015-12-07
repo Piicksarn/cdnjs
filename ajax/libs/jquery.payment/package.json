@@ -8,11 +8,6 @@
     "payment",
     "jquery"
   ],
-  "maintainers": [
-    {
-      "name": "Alex MacCaw (Stripe)"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/stripe/jquery.payment.git",

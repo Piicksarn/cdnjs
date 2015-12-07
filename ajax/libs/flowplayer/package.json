@@ -12,23 +12,6 @@
     "flash",
     "web"
   ],
-  "maintainers": [
-    {
-      "name": "Courtney Couch"
-    },
-    {
-      "name": "Niklas Narhinen"
-    },
-    {
-      "name": "Tero Piirainen"
-    },
-    {
-      "name": "Anssi Piirainen"
-    },
-    {
-      "name": "Lakshmi Vyas"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/flowplayer/flowplayer"

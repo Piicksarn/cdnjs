@@ -22,12 +22,6 @@
     "vimeo",
     "youtube"
   ],
-  "maintainers": [
-    {
-      "name": "RESS.io",
-      "web": "http://ress.io/"
-    }
-  ],
   "npmName": "lazyloadxt",
   "npmFileMap": [
     {

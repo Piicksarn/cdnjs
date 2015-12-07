@@ -8,12 +8,6 @@
     "animation",
     "css"
   ],
-  "maintainers": [
-    {
-      "name": "Daniel Eden",
-      "web": "http://daneden.me"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/daneden/animate.css.git",

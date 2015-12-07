@@ -8,13 +8,6 @@
     "requirejs",
     "i18n"
   ],
-  "maintainers": [
-    {
-      "name": "James Burke",
-      "email": "jrburke@gmail.com",
-      "web": "http://tagneto.blogspot.ru/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/requirejs/i18n"

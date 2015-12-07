@@ -8,12 +8,6 @@
     "jquery-treegrid",
     "file download"
   ],
-  "maintainers": [
-    {
-      "name": "Maksym Pomazan",
-      "web": "http:/maxazan.github.io/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/maxazan/jquery-treegrid"

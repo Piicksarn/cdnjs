@@ -11,12 +11,6 @@
     "modules",
     "scalable"
   ],
-  "maintainers": [
-    {
-      "name": "Tomas Corral",
-      "email": "amischol@gmail.com"
-    }
-  ],
   "npmName": "hydra.js",
   "npmFileMap": [
     {

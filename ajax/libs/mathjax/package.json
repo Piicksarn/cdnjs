@@ -10,11 +10,6 @@
     "LaTeX",
     "TeX"
   ],
-  "maintainers": [
-    {
-      "name": "MathJax Consortium"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mathjax/MathJax"

@@ -13,12 +13,6 @@
     "events",
     "rails"
   ],
-  "maintainers": [
-    {
-      "name": "Batmanjs",
-      "web": "https://github.com/batmanjs"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/batmanjs/batman"

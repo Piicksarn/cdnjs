@@ -13,11 +13,6 @@
   "version": "1.2.8",
   "description": "A client Side/Server Side Router",
   "homepage": "https://github.com/flatiron/director",
-  "maintainers": [
-    {
-      "name": "flatiron"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/flatiron/director.git"

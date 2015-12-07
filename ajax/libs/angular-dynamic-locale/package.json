@@ -9,12 +9,6 @@
     "url": "git://github.com/lgalfaso/angular-dynamic-locale.git"
   },
   "homepage": "https://github.com/lgalfaso/angular-dynamic-locale",
-  "maintainers": [
-    {
-      "name": "lgalfaso",
-      "email": "lgalfaso@gmail.com"
-    }
-  ],
   "keywords": [
     "dynamic",
     "change locale"

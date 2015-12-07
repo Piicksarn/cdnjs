@@ -12,12 +12,6 @@
     "name": "G. Kay Lee",
     "email": "balancetraveller+github@gmail.com"
   },
-  "maintainers": [
-    {
-      "name": "egilkh",
-      "web": "https://github.com/egilkh"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/gsklee/ngStorage.git",

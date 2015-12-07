@@ -10,13 +10,6 @@
     "form",
     "helper"
   ],
-  "maintainers": [
-    {
-      "name": "Mario Izquierdo",
-      "email": "tothemario@gmail.com",
-      "web": "https://github.com/marioizquierdo"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/marioizquierdo/jquery.serializeJSON.git",

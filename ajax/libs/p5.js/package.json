@@ -11,13 +11,6 @@
     "graphics",
     "interactive"
   ],
-  "maintainers": [
-    {
-      "name": "Lauren McCarthy",
-      "email": "laurmccarthy@gmail.com",
-      "web": "http://lauren-mccarthy.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/processing/p5.js"

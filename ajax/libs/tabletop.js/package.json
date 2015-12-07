@@ -8,13 +8,6 @@
     "storage"
   ],
   "version": "1.4.2",
-  "maintainers": [
-    {
-      "name": "Jonathan Soma",
-      "email": "jonathan.soma@gmail.com",
-      "web": "http://twitter.com/dangerscarf"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jsoma/tabletop.git"

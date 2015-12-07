@@ -10,13 +10,6 @@
     "dropdown",
     "ui"
   ],
-  "maintainers": [
-    {
-      "name": "Igor Vaynberg",
-      "email": "igor.vaynberg@gmail.com",
-      "web": "https://github.com/ivaynberg"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/select2/select2.git",

@@ -15,12 +15,6 @@
     "input",
     "slide"
   ],
-  "maintainers": [
-    {
-      "name": "Léon Gersen",
-      "web": "http://refreshless.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/leongersen/noUiSlider.git",

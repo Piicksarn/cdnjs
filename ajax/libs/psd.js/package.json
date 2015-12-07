@@ -11,12 +11,6 @@
     "parser",
     "node"
   ],
-  "maintainers": [
-    {
-      "name": "Ryan LeFevre",
-      "web": "http://meltingice.net"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/meltingice/psd.js.git",

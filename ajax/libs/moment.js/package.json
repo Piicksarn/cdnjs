@@ -25,11 +25,6 @@
     "moment",
     "time"
   ],
-  "maintainers": [
-    {
-      "name": "Tim Wood"
-    }
-  ],
   "namespace": "moment",
   "repository": {
     "type": "git",

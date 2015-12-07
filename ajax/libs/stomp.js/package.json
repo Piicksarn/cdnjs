@@ -12,12 +12,6 @@
     "messaging",
     "queue"
   ],
-  "maintainers": [
-    {
-      "name": "Jeff Mesnil",
-      "web": "https://github.com/jmesnil/stomp-websocket"
-    }
-  ],
   "npmName": "stompjs",
   "npmFileMap": [
     {

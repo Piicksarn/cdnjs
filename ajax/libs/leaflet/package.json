@@ -8,11 +8,6 @@
     "maps",
     "mobile"
   ],
-  "maintainers": [
-    {
-      "name": "CloudMade"
-    }
-  ],
   "npmName": "leaflet",
   "npmFileMap": [
     {

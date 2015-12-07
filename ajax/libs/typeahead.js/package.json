@@ -9,11 +9,6 @@
     "typeahead",
     "autocomplete"
   ],
-  "maintainers": [
-    {
-      "name": "Twitter, Inc."
-    }
-  ],
   "npmName": "typeahead.js",
   "npmFileMap": [
     {

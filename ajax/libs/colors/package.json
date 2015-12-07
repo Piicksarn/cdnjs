@@ -10,12 +10,6 @@
     "html",
     "new"
   ],
-  "maintainers": [
-    {
-      "name": "Adam Morse",
-      "url": "https://github.com/mrmrs"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mrmrs/colors.git"

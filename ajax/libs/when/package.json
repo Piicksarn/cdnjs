@@ -21,16 +21,6 @@
     "type": "git",
     "url": "https://github.com/cujojs/when"
   },
-  "maintainers": [
-    {
-      "name": "Brian Cavalier",
-      "web": "http://hovercraftstudios.com"
-    },
-    {
-      "name": "John Hann",
-      "web": "http://unscriptable.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cujojs/when.git",

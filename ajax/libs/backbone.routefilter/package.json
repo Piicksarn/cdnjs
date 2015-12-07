@@ -11,13 +11,6 @@
     "before",
     "after"
   ],
-  "maintainers": [
-    {
-      "name": "Boaz Sender",
-      "email": "boaz@bocoup.com",
-      "web": "http://boazsender.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/boazsender/backbone.routefilter.git"

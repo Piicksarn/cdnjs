@@ -9,13 +9,6 @@
     "websockets",
     "realtime"
   ],
-  "maintainers": [
-    {
-      "name": "Pusher",
-      "twitter": "pusher",
-      "web": "http://pusher.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/pusher/pusher-js.git",

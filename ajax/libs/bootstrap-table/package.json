@@ -8,12 +8,6 @@
     "bootstrap",
     "table"
   ],
-  "maintainers": [
-    {
-      "name": "zhixin wen",
-      "web": "http://wenzhixin.net.cn/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/wenzhixin/bootstrap-table.git",

@@ -9,12 +9,6 @@
     "slider",
     "images"
   ],
-  "maintainers": [
-    {
-      "name": "Rob Garrison",
-      "url": "https://github.com/Mottie"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/CSS-Tricks/AnythingSlider.git",

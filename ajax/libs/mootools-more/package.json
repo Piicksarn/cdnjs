@@ -9,15 +9,6 @@
     "toolkit",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Valerio Proietti",
-      "web": "http://mad4milk.net/"
-    },
-    {
-      "name": "Mootools Dev Team"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mootools/mootools-more.git"

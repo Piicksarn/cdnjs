@@ -10,12 +10,6 @@
     "asynchronous",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "James Burke",
-      "web": "http://tagneto.blogspot.com"
-    }
-  ],
   "namespace": "require",
   "autoupdate": {
     "source": "git",

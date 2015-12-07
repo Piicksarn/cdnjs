@@ -10,12 +10,6 @@
     "serializer",
     "pyyaml"
   ],
-  "maintainers": [
-    {
-      "name": "Vitaly Puzrin",
-      "email": "vitaly@rcdesign.ru"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/nodeca/js-yaml.git",

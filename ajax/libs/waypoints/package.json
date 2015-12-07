@@ -8,12 +8,6 @@
     "scroll",
     "scrolling"
   ],
-  "maintainers": [
-    {
-      "name": "Caleb Troughton",
-      "web": "http://imakewebthings.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/imakewebthings/waypoints.git",

@@ -13,13 +13,6 @@
     "query",
     "json"
   ],
-  "maintainers": [
-    {
-      "name": "Yuriy Nemtsov",
-      "email": "nemtsov@gmail.com",
-      "web": "https://plus.google.com/109828394194059139561/posts"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/nemtsov/json-mask.git",

@@ -10,12 +10,6 @@
     "loader",
     "module"
   ],
-  "maintainers": [
-    {
-      "name": "John Hann",
-      "web": "http://unscriptable.com"
-    }
-  ],
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -10,16 +10,6 @@
     "ember-data",
     "django-rest-framework"
   ],
-  "maintainers": [
-    {
-      "name": "Toran Billups",
-      "web": "https://github.com/toranb"
-    },
-    {
-      "name": "Austin Morton",
-      "web": "https://github.com/Juvenal1228"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/toranb/ember-data-django-rest-adapter"

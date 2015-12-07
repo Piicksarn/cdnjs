@@ -10,12 +10,6 @@
     "text processing",
     "ast"
   ],
-  "maintainers": [
-    {
-      "name": "Rodney Rehm",
-      "web": "http://rodneyrehm.de/en/"
-    }
-  ],
   "npmName": "markdown",
   "npmFileMap": [
     {

@@ -9,13 +9,6 @@
     "step-by-step guide",
     "introductions"
   ],
-  "maintainers": [
-    {
-      "name": "Afshin Mehrabani",
-      "email": "afshin.meh@gmail.com",
-      "web": "https://github.com/afshinm"
-    }
-  ],
   "demos": [
     "http://usablica.github.com/intro.js/"
   ],

@@ -8,12 +8,6 @@
     "ember-simple-auth",
     "ember-simple-auth-oauth2"
   ],
-  "maintainers": [
-    {
-      "name": "ember-simple-auth",
-      "web": "https://github.com/simplabs/ember-simple-auth"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/simplabs/ember-simple-auth-component.git",

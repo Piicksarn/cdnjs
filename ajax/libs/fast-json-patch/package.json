@@ -9,12 +9,6 @@
     "patch",
     "json-patch"
   ],
-  "maintainers": [
-    {
-      "name": "Joachim Wester",
-      "email": "joachimwester@me.com"
-    }
-  ],
   "npmName": "fast-json-patch",
   "npmFileMap": [
     {

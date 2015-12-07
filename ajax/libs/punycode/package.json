@@ -24,18 +24,6 @@
     "email": "mathias@qiwi.be",
     "web": "http://mathiasbynens.be/"
   },
-  "maintainers": [
-    {
-      "name": "Mathias Bynens",
-      "email": "mathias@qiwi.be",
-      "web": "http://mathiasbynens.be/"
-    },
-    {
-      "name": "John-David Dalton",
-      "email": "john@fusejs.com",
-      "web": "http://allyoucanleet.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/bestiejs/punycode.js.git"

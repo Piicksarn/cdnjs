@@ -9,12 +9,6 @@
     "load",
     "ajax"
   ],
-  "maintainers": [
-    {
-      "name": "Rico Sta. Cruz",
-      "web": "http://ricostacruz.com/"
-    }
-  ],
   "npmName": "nprogress",
   "npmFileMap": [
     {

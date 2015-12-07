@@ -9,12 +9,6 @@
     "themeing",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Liferay",
-      "web": "http://www.liferay.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/liferay/alloy-ui"

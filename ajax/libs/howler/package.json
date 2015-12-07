@@ -7,12 +7,6 @@
   "keywords": [
     "audio"
   ],
-  "maintainers": [
-    {
-      "name": "James Simpson",
-      "web": "http://goldfirestudios.com/about"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/goldfire/howler.js.git",

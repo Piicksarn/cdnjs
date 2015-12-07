@@ -12,12 +12,6 @@
     "rendering",
     "webgl"
   ],
-  "maintainers": [
-    {
-      "name": "Mat Groves",
-      "web": "http://www.goodboydigital.com/"
-    }
-  ],
   "npmName": "pixi.js",
   "npmFileMap": [
     {

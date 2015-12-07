@@ -13,18 +13,6 @@
     "mapping",
     "validation"
   ],
-  "maintainers": [
-    {
-      "name": "eric barnard",
-      "email": "eric.m.barnard@gmail.com",
-      "web": "http://www.ericbarnard.com/"
-    },
-    {
-      "name": "Cristian Trifan",
-      "email": "criss.trifan@gmail.com",
-      "web": "http://www.crissdev.com/"
-    }
-  ],
   "npmName": "knockout.validation",
   "npmFileMap": [
     {

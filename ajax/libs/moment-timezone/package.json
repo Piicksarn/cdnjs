@@ -10,11 +10,6 @@
     "timezone",
     "time"
   ],
-  "maintainers": [
-    {
-      "name": "Tim Wood"
-    }
-  ],
   "npmName": "moment-timezone",
   "npmFileMap": [
     {

@@ -24,12 +24,6 @@
     "responsive",
     "mobile"
   ],
-  "maintainers": [
-    {
-      "name": "Dmitry Semenov",
-      "web": "http://dimsemenov.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dimsemenov/Magnific-Popup.git",

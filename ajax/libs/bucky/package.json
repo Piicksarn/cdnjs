@@ -10,11 +10,6 @@
     "rum",
     "monitoring"
   ],
-  "maintainers": [
-    {
-      "name": "The Bucky team"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/HubSpot/BuckyClient.git",

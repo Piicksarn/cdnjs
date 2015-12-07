@@ -14,12 +14,6 @@
     "ajax",
     "jsonp"
   ],
-  "maintainers": [
-    {
-      "name": "Dustin Diaz",
-      "web": "http://www.dustindiaz.com/"
-    }
-  ],
   "npmName": "scriptjs",
   "npmFileMap": [
     {

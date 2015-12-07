@@ -9,12 +9,6 @@
     "ios",
     "android"
   ],
-  "maintainers": [
-    {
-      "name": "Arnold Daniels",
-      "web": "http://www.jasny.net/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jasny/jquery.smartbanner.git",

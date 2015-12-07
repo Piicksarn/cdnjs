@@ -8,12 +8,6 @@
     "javascript",
     "physics"
   ],
-  "maintainers": [
-    {
-      "name": "Stefan Hedman",
-      "web": "http://steffe.se/"
-    }
-  ],
   "npmName": "cannon",
   "npmFileMap": [
     {

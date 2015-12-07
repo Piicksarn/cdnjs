@@ -12,12 +12,6 @@
     "responsive",
     "flick"
   ],
-  "maintainers": [
-    {
-      "name": "Metafizzy",
-      "web": "http://metafizzy.co"
-    }
-  ],
   "npmName": "flickity",
   "npmFileMap": [
     {

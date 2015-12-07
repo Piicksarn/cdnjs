@@ -8,11 +8,6 @@
     "websockets",
     "node"
   ],
-  "maintainers": [
-    {
-      "name": "Bryce Kahle"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sockjs/sockjs-client.git",

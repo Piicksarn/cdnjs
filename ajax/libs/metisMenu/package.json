@@ -15,13 +15,6 @@
     "metis",
     "metisMenu"
   ],
-  "maintainers": [
-    {
-      "name": "Osman Nuri Okumuş",
-      "email": "onokumus@gmail.com",
-      "url": " http://onokumus.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/onokumus/metisMenu.git",

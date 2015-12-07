@@ -8,12 +8,6 @@
     "maps",
     "mobile"
   ],
-  "maintainers": [
-    {
-      "name": "Dave Leaver",
-      "url": "https://github.com/danzel"
-    }
-  ],
   "npmName": "leaflet.markercluster",
   "npmFileMap": [
     {

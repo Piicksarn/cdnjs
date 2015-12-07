@@ -10,13 +10,6 @@
     "selector",
     "ender"
   ],
-  "maintainers": [
-    {
-      "name": "Diego Perini",
-      "email": "diego.perini@gmail.com",
-      "web": "http://www.iport.it/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dperini/nwmatcher.git",

@@ -11,11 +11,6 @@
     "plugin",
     "console"
   ],
-  "maintainers": [
-    {
-      "name": "The Replit Project"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/replit/jq-console.git"

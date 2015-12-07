@@ -10,12 +10,6 @@
     "graphics",
     "animation"
   ],
-  "maintainers": [
-    {
-      "name": "EaselJS",
-      "web": "http://www.createjs.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/CreateJS/EaselJS.git"

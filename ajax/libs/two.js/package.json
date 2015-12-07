@@ -15,12 +15,6 @@
     "rendering",
     "motiongraphics"
   ],
-  "maintainers": [
-    {
-      "name": "jonobr1",
-      "web": "http://jonobr1.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/jonobr1/two.js.git",

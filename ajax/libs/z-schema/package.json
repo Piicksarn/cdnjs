@@ -23,12 +23,6 @@
     "commander": "^2.7.1",
     "request": "^2.54.0"
   },
-  "maintainers": [
-    {
-      "name": "zaggino",
-      "email": "zaggino@gmail.com"
-    }
-  ],
   "npmName": "z-schema",
   "npmFileMap": [
     {

@@ -10,12 +10,6 @@
     "framework",
     "spa"
   ],
-  "maintainers": [
-    {
-      "name": "basis.js",
-      "web": "http://basisjs.com"
-    }
-  ],
   "npmName": "basis-library",
   "npmFileMap": [
     {

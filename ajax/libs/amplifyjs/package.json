@@ -9,12 +9,6 @@
     "amplify",
     "api"
   ],
-  "maintainers": [
-    {
-      "name": "appendTo",
-      "web": "http://appendto.com/"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mikehostetler/amplify.git",

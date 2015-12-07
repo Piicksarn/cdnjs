@@ -8,12 +8,6 @@
     "fuse",
     "fuse.js"
   ],
-  "maintainers": [
-    {
-      "name": "Kirollos Risk",
-      "web": "https://github.com/krisk"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/krisk/Fuse.git",

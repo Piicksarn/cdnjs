@@ -9,12 +9,6 @@
     "generator",
     "peg"
   ],
-  "maintainers": [
-    {
-      "name": "David Majda",
-      "web": "http://majda.cz"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pegjs/pegjs"

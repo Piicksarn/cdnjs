@@ -11,12 +11,6 @@
     "bootstrap",
     "twitter-bootstrap"
   ],
-  "maintainers": [
-    {
-      "name": "Craig McKie",
-      "web": "https://github.com/TechKat"
-    }
-  ],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

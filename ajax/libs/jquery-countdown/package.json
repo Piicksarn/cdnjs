@@ -12,15 +12,5 @@
     "type": "git",
     "url": "https://github.com/kbwood/countdown.git"
   },
-  "maintainers": [
-    {
-      "name": "Keith Wood",
-      "web": "http://keith-wood.name"
-    },
-    {
-      "name": "Keith Wood",
-      "web": "https://github.com/kbwood/countdown"
-    }
-  ],
   "license": "MIT"
 }

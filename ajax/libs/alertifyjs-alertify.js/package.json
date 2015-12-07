@@ -5,12 +5,6 @@
   "homepage": "https://alertifyjs.org/",
   "filename": "js/alertify.js",
   "author": "Fabien Doiron <fabien.doiron@gmail.com> (http://fabien-d.github.io/)",
-  "maintainers": [
-    "Brad Berger <brad@bradb.net> (https://bradb.net)",
-    "Christian Tellnes <christian@tellnes.com> (http://christian.tellnes.com)",
-    "Dennis Heckman <denheck@gmail.com> (https://github.com/denheck)",
-    "Mehdi Lefebvre <mehdi.lefebvre@gmail.com> (https://github.com/ollie314)"
-  ],
   "keywords": [
     "alertify",
     "alertifyjs",

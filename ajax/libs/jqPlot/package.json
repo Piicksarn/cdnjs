@@ -10,11 +10,6 @@
     "charting",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Chris Leonello <chris@jqplot.com>"
-    }
-  ],
   "licenses": [
     "MIT",
     {

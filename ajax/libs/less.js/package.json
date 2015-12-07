@@ -13,12 +13,6 @@
     "pre-processor",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "The Core Less Team",
-      "website": "https://github.com/orgs/less/members"
-    }
-  ],
   "npmName": "less",
   "npmFileMap": [
     {

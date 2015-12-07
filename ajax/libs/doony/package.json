@@ -9,14 +9,6 @@
     "jenkins",
     "ui"
   ],
-  "maintainers": [
-    {
-      "name": "Kevin Burke"
-    },
-    {
-      "name": "Kyle Conroy"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/kevinburke/doony"

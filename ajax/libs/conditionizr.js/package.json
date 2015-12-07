@@ -13,13 +13,6 @@
     "scripts",
     "styles"
   ],
-  "maintainers": [
-    {
-      "name": "Todd Motto",
-      "email": "todd@toddmotto.com",
-      "web": "http://toddmotto.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/conditionizr/conditionizr"

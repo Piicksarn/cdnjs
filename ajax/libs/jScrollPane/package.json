@@ -4,12 +4,6 @@
   "filename": "script/jquery.jscrollpane.min.js",
   "description": "jScrollPane - cross browser styleable scrollbars with jQuery and CSS",
   "homepage": "http://jscrollpane.kelvinluck.com",
-  "maintainers": [
-    {
-      "name": "Kelvin Luck",
-      "web": "http://www.kelvinluck.com"
-    }
-  ],
   "keywords": [
     "framework",
     "toolkit",

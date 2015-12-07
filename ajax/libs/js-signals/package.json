@@ -9,12 +9,6 @@
     "messaging",
     "popular"
   ],
-  "maintainers": [
-    {
-      "name": "Miller Medeiros",
-      "web": "http://www.millermedeiros.com/"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/millermedeiros/js-signals"

@@ -8,13 +8,6 @@
     "css",
     "preprocessor"
   ],
-  "maintainers": [
-    {
-      "name": "Krasimir Tsonev",
-      "email": "info@krasimirtsonev.com",
-      "web": "http://krasimirtsonev.com"
-    }
-  ],
   "npmName": "absurd",
   "npmFileMap": [
     {

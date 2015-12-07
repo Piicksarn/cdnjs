@@ -9,13 +9,6 @@
     "jquery.pep,js",
     "pep"
   ],
-  "maintainers": [
-    {
-      "name": "Brian Gonzalez",
-      "email": "me@briangonzalez.org",
-      "web": "http://briangonzalez.org"
-    }
-  ],
   "demos": [
     "http://pep.briangonzalez.org"
   ],

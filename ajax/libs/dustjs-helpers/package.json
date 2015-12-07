@@ -11,12 +11,6 @@
     "linkedin",
     "asynchronous"
   ],
-  "maintainers": [
-    {
-      "name": "LinkedIn",
-      "web": "https://github.com/linkedin"
-    }
-  ],
   "npmName": "dustjs-helpers",
   "npmFileMap": [
     {

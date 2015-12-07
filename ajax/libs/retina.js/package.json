@@ -9,12 +9,6 @@
     "retina",
     "image"
   ],
-  "maintainers": [
-    {
-      "name": "Imulus",
-      "web": "http://imulus.com"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/imulus/retinajs.git"

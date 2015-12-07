@@ -8,12 +8,6 @@
     "3d",
     "WebGL"
   ],
-  "maintainers": [
-    {
-      "name": "Mr.doob",
-      "web": "http://mrdoob.com"
-    }
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mrdoob/three.js.git",
