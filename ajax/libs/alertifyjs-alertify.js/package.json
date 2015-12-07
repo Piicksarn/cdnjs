@@ -1,0 +1,34 @@
+{
+  "name": "alertifyjs-alertify.js",
+  "description": "An lightweight, unobtrusive customizable JavaScript notification system.",
+  "version": "1.0.6",
+  "homepage": "https://alertifyjs.org/",
+  "filename": "js/alertify.js",
+  "author": "Fabien Doiron <fabien.doiron@gmail.com> (http://fabien-d.github.io/)",
+  "maintainers": [
+    "Brad Berger <brad@bradb.net> (https://bradb.net)",
+    "Christian Tellnes <christian@tellnes.com> (http://christian.tellnes.com)",
+    "Dennis Heckman <denheck@gmail.com> (https://github.com/denheck)",
+    "Mehdi Lefebvre <mehdi.lefebvre@gmail.com> (https://github.com/ollie314)"
+  ],
+  "keywords": [
+    "alertify",
+    "alertifyjs",
+    "alertify.js",
+    "notifications",
+    "alert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alertifyjs/alertify.js.git"
+  },
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/alertifyjs/alertify.js.git",
+    "basePath": "dist",
+    "files": [
+      "**/*"
+    ]
+  }
+}
