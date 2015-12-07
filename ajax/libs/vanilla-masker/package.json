@@ -1,0 +1,24 @@
+{
+  "name": "vanilla-masker",
+  "filename": "vanilla-masker.min.js",
+  "version": "1.1.0",
+  "description": "VanillaMasker is a pure javascript input mask.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BankFacil/vanilla-masker.git"
+  },
+  "author": [
+    "Caio Ribeiro Pereira <caio.ribeiro.pereira@gmail.com>",
+    "Leandro Alvares da Costa <leandroadacosta@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://bankfacil.github.io/vanilla-masker",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/BankFacil/vanilla-masker.git",
+    "basePath": "lib",
+    "files": [
+      "vanilla-masker*.js"
+    ]
+  }
+}
