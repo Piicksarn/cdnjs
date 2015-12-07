@@ -1,7 +1,7 @@
 {
   "name": "jquery-serialize-object",
-  "filename": "jquery.serialize-object.compiled.js",
-  "version": "2.0.0",
+  "filename": "jquery.serialize-object.min.js",
+  "version": "2.5.0",
   "description": "serialize form fields into an object or JSON",
   "homepage": "http://ianlunn.co.uk/articles/recreate-nikebetterworld-parallax/",
   "keywords": [
