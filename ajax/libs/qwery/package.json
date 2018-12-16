@@ -10,7 +10,6 @@
     "css",
     "selector engine"
   ],
-  "ender": "./src/ender.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ded/qwery.git"

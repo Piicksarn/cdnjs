@@ -11,11 +11,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/n33/jquery.dropotron.git"
+    "url": "https://github.com/ajlkn/jquery.dropotron.git"
   },
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/n33/jquery.dropotron.git",
+    "target": "git://github.com/ajlkn/jquery.dropotron.git",
     "fileMap": [
       {
         "basePath": "",

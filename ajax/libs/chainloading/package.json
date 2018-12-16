@@ -14,7 +14,6 @@
   ],
   "author": "James Hartig <fastest963@gmail.com>",
   "license": "BSD",
-  "readmeFilename": "README.md",
   "npmName": "chainloading",
   "npmFileMap": [
     {

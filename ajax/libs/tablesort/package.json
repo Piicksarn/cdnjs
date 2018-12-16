@@ -1,7 +1,7 @@
 {
   "name": "tablesort",
   "filename": "tablesort.min.js",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "description": "A dependency free sorting component for tables.",
   "homepage": "http://tristen.ca/tablesort/demo/",
   "keywords": [
@@ -13,10 +13,9 @@
     "target": "git://github.com/tristen/tablesort.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "tablesort*.js",
-          "src/**/tablesort*.js"
+          "**/*"
         ]
       }
     ]

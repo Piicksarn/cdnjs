@@ -1,7 +1,7 @@
 {
   "name": "flatpickr",
   "filename": "flatpickr.min.js",
-  "version": "2.4.3",
+  "version": "4.5.2",
   "description": "A lightweight, powerful datetimepicker",
   "repository": {
     "type": "git",
@@ -19,13 +19,12 @@
     "picker",
     "lightweight"
   ],
-  "lecense": "MIT",
   "npmName": "flatpickr",
   "npmFileMap": [
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "**/!(index.js|*.ts)"
       ]
     }
   ]

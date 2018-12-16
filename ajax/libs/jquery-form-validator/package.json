@@ -8,15 +8,13 @@
     "validation",
     "validator"
   ],
-  "version": "2.3.54",
+  "version": "2.3.79",
   "author": {
     "name": "Victor Jonsson",
     "url": "http://victorjonsson.se",
     "email": "kontakt@victorjonsson.se"
   },
   "homepage": "http://formvalidator.net",
-  "demo": "http://formvalidator.net",
-  "download": "http://formvalidator.net",
   "repository": {
     "type": "git",
     "url": "https://github.com/victorjonsson/jQuery-Form-Validator.git"
@@ -35,8 +33,5 @@
       }
     ]
   },
-  "license": {
-    "type": "Dual licensed under the MIT or GPL Version 2 licenses",
-    "url": "http://www.gnu.org/licenses/gpl-2.0.html"
-  }
+  "license": "MIT"
 }

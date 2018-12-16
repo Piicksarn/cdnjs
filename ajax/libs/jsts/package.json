@@ -2,7 +2,7 @@
   "name": "jsts",
   "filename": "jsts.min.js",
   "description": "A JavaScript library of spatial predicates and functions for processing geometry",
-  "version": "1.3.0",
+  "version": "2.0.2",
   "author": "Björn Harrtell <bjorn@wololo.org>",
   "keywords": [
     "JSTS",

@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-slider",
-  "version": "9.7.2",
+  "version": "10.4.0",
   "description": "Slider view component for Twitter Bootstrap.",
   "filename": "bootstrap-slider.min.js",
   "npmName": "bootstrap-slider",
@@ -16,7 +16,6 @@
     "twitter",
     "slide"
   ],
-  "readmeFilename": "README.md",
   "npmFileMap": [
     {
       "basePath": "dist",

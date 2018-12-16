@@ -23,7 +23,6 @@
       ]
     }
   ],
-  "postinstall": "node node_modules/grunt-cli/bin/grunt build",
   "license": "MIT",
   "keywords": [
     "CacheFactory",

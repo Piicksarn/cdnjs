@@ -1,6 +1,6 @@
 {
   "name": "mobx",
-  "version": "3.1.3",
+  "version": "5.8.0",
   "filename": "mobx.min.js",
   "description": "Simple, scalable state management.",
   "repository": {
@@ -29,7 +29,7 @@
     {
       "basePath": "lib",
       "files": [
-        "**/mobx!(*.d.ts|*.flow)"
+        "**/mobx!(*.d.ts|*.flow|*.es6.js|.module.js)"
       ]
     }
   ]

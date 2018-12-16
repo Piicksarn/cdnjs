@@ -8,5 +8,10 @@
     "jquery",
     "jqueryui",
     "select box"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfranko/jquery.selectBoxIt.js"
+  },
+  "license": "MIT"
 }

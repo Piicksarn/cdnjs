@@ -1,7 +1,7 @@
 {
   "name": "sinon.js",
   "filename": "sinon.min.js",
-  "version": "1.15.4",
+  "version": "7.2.2",
   "description": "JavaScript test spies, stubs and mocks.",
   "homepage": "http://sinonjs.org/",
   "keywords": [
@@ -16,6 +16,15 @@
     "type": "git",
     "url": "https://github.com/sinonjs/sinon"
   },
+  "npmName": "sinon",
+  "npmFileMap": [
+    {
+      "basePath": "pkg",
+      "files": [
+        "**/!(sinon-esm.js)"
+      ]
+    }
+  ],
   "license": "BSD-3-Clause",
   "author": "Christian Johansen"
 }

@@ -14,7 +14,6 @@
     "email": "pc035860@gmail.com"
   },
   "license": "MIT",
-  "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/pc035860/angular-highlightjs.git",

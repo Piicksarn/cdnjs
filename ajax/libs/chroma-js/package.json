@@ -2,7 +2,7 @@
   "name": "chroma-js",
   "filename": "chroma.min.js",
   "description": "JavaScript library for color conversions",
-  "version": "1.2.2",
+  "version": "2.0.2",
   "author": "Gregor Aisch",
   "keywords": [
     "color"

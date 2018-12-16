@@ -1,9 +1,8 @@
 {
   "name": "redux-form",
-  "version": "6.5.0",
+  "version": "8.0.4",
   "filename": "redux-form.min.js",
   "description": "A higher order component decorator for forms using Redux and React",
-  "jsnext:main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/erikras/redux-form"

@@ -1,7 +1,7 @@
 {
   "name": "backbone.marionette",
   "filename": "backbone.marionette.min.js",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "description": "Make your Backbone.js apps dance!",
   "keywords": [
     "collections",
@@ -15,7 +15,7 @@
     {
       "basePath": "lib",
       "files": [
-        "**/*"
+        "**/!(backbone.marionette.esm.js*)"
       ]
     }
   ],

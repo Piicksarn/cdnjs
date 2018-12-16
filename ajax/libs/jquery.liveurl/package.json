@@ -14,9 +14,6 @@
     "name": "Stephan Fischer",
     "url": "https://github.com/stephan-fischer"
   },
-  "docs": "https://github.com/jquery/jquery-color",
-  "download": "https://github.com/stephan-fischer/jQuery-LiveUrl/archive/master.zip",
-  "demo": "http://liveurl.ainetworks.de/demo/",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/stephan-fischer/jQuery-LiveUrl.git",

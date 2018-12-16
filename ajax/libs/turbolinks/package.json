@@ -1,7 +1,7 @@
 {
   "name": "turbolinks",
-  "filename": "turbolinks.min.js",
-  "version": "5.0.0",
+  "filename": "turbolinks.js",
+  "version": "5.2.0",
   "description": "Turbolinks makes navigating your web application faster",
   "keywords": [
     "rails",

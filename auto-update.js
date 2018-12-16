@@ -8,6 +8,7 @@ var _ = require('lodash');
 var request = require('superagent');
 var async = require('async');
 var tarball = require('tarball-extract');
+var chmodr = require('chmodr');
 var colors = require('colors');
 var isThere = require('is-there');
 var stable = require('semver-stable');
@@ -16,8 +17,7 @@ var tempDirPath;
 var args;
 
 if (fs.existsSync('/run/shm')) {
-  fs.mkdirsSync('/run/shm/cdnjs_NPM_temp');
-  tempDirPath = '/run/shm/cdnjs_NPM_temp';
+  tempDirPath = '/run/shm/' + process.env.USER + '/cdnjs_NPM_temp';
 } else {
   tempDirPath = path.join(__dirname, 'temp');
 }
@@ -145,6 +145,10 @@ var processNewVersion = function (pkg, version) {
     return;
   }
 
+  // trick to handle wrong permission lib like clipboard.js@0.0.7
+  fs.chmodSync(extractLibPath, 0755);
+  chmodr.sync(extractLibPath, 0755);
+
   var libPath = getPackagePath(pkg, version);
   var isAllowedPath = isAllowedPathFn(extractLibPath);
   var newPath = path.join(libPath, 'package.json');
@@ -160,7 +164,10 @@ var processNewVersion = function (pkg, version) {
   var updated = false;
   _.each(npmFileMap, function (fileSpec) {
     var basePath = fileSpec.basePath || '';
-
+    if (fileSpec.files.length === 0) {
+      fs.mkdirsSync(libPath);
+      return;
+    }
     _.each(fileSpec.files, function (file) {
       var libContentsPath = path.normalize(path.join(extractLibPath, basePath));
       if (!isAllowedPath(libContentsPath)) {
@@ -180,14 +187,18 @@ var processNewVersion = function (pkg, version) {
       }
 
       _.each(files, function (extractFilePath) {
-        if (extractFilePath.match(/(dependencies|\.zip\s*$)/i)) {
+        if (extractFilePath.match(/(\.zip\s*$)/i)) {
           return;
         }
 
         var copyPart = path.relative(libContentsPath, extractFilePath);
         var copyPath = path.join(libPath, copyPart);
-        fs.mkdirsSync(path.dirname(copyPath));
-        fs.copySync(extractFilePath, copyPath);
+        if (fs.statSync(extractFilePath).size !== 0){
+          // don't copy the empty file from the source
+          fs.mkdirsSync(path.dirname(copyPath));
+          fs.copySync(extractFilePath, copyPath);
+          fs.chmodSync(copyPath, '0644');
+        }
         updated = true;
       });
     });
@@ -281,11 +292,16 @@ var updateLibrary = function (pkg, cb) {
 
   console.log(msg.prompt);
   var npmNameScopeReg = /^@.+\/.+$/;
+  var scopedPackage = false;
   if (npmNameScopeReg.test(pkg.npmName)) {
+    scopedPackage = pkg.npmName;
     pkg.npmName = pkg.npmName.replace('/', '%2f');
   }
 
   request.get('https://registry.npmjs.org/' + pkg.npmName).end(function (error, result) {
+    if (scopedPackage !== false) {
+      pkg.npmName = scopedPackage;
+    }
     if (result !== undefined && result.body !== undefined) {
       async.each(_.toPairs(result.body.versions), function (p, cb) {
         var data = p[1];
@@ -305,7 +321,8 @@ var updateLibrary = function (pkg, cb) {
 };
 
 exports.run = function () {
-  fs.removeSync(path.join(tempDirPath, '/*'));
+  fs.removeSync(path.join(tempDirPath));
+  fs.mkdirsSync(tempDirPath);
 
   console.log('Looking for npm enabled libraries...');
 
@@ -328,7 +345,6 @@ exports.run = function () {
     var msg = 'Auto Update Completed - ' + newVersionCount +
       ' versions were updated';
     console.log(msg.prompt);
-    fs.removeSync(path.join(tempDirPath, '/*'));
     if (err) {
       console.dir(err);
     }

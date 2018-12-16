@@ -15,7 +15,6 @@
     "email": "azazel.private@gmail.com",
     "url": "http://azproduction.ru/"
   },
-  "demo": "http://azproduction.ru/jquery.notification/",
   "repository": {
     "type": "git",
     "url": "https://github.com/azproduction/jquery.notification"

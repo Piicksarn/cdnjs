@@ -1,6 +1,6 @@
 {
   "name": "cldrjs",
-  "version": "0.4.8",
+  "version": "0.5.0",
   "description": "Simple CLDR traverser",
   "filename": "cldr.min.js",
   "keywords": [
@@ -24,7 +24,6 @@
     "type": "git",
     "url": "git://github.com/rxaviers/cldrjs.git"
   },
-  "readmeFilename": "README.md",
   "author": {
     "name": "Rafael Xavier de Souza",
     "email": "rxaviers@gmail.com",

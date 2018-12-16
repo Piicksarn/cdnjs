@@ -1,6 +1,6 @@
 {
   "name": "defiant.js",
-  "version": "1.4.0",
+  "version": "2.1.2",
   "filename": "defiant.min.js",
   "description": "Search JSON structures plus smart templating with XSLT and XPath.",
   "author": {

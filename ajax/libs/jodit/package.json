@@ -1,6 +1,6 @@
 {
   "name": "jodit",
-  "version": "2.5.62",
+  "version": "3.2.27",
   "filename": "jodit.min.js",
   "description": "Jodit is awesome and usefully wysiwyg editor with filebrowser",
   "homepage": "http://xdsoft.net/jodit/",
@@ -19,9 +19,9 @@
   "npmName": "jodit",
   "npmFileMap": [
     {
-      "basePath": "",
+      "basePath": "build",
       "files": [
-        "*jodit*.+(css|js|map)"
+        "**/!(jodit.min.js.LICENSE)"
       ]
     }
   ]

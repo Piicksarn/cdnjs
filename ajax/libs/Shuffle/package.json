@@ -1,6 +1,6 @@
 {
   "name": "Shuffle",
-  "version": "4.1.0",
+  "version": "5.2.1",
   "description": "Categorize, sort, and filter a responsive grid of items",
   "keywords": [
     "jquery-plugin",
@@ -27,7 +27,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/*"
+        "**/!(*.esm.js?(.map))"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "name": "react-router-bootstrap",
   "filename": "ReactRouterBootstrap.min.js",
-  "version": "0.23.1",
+  "version": "0.24.4",
   "description": "Integration between React Router and React-Bootstrap",
   "repository": {
     "type": "git",

@@ -1,7 +1,7 @@
 {
   "name": "react-router",
   "filename": "react-router.min.js",
-  "version": "4.0.0-beta.7",
+  "version": "4.3.1",
   "description": "A complete routing library for React.js",
   "keywords": [
     "react",

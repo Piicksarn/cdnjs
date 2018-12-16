@@ -10,7 +10,7 @@
       ]
     }
   ],
-  "version": "6.1.2",
+  "version": "7.0.0",
   "filename": "pouchdb.min.js",
   "description": "PouchDB is a pocket-sized database.",
   "homepage": "http://pouchdb.com/",
@@ -19,11 +19,6 @@
     "url": "https://github.com/pouchdb/pouchdb"
   },
   "keywords": [
-    "db",
-    "couchdb",
-    "pouchdb"
-  ],
-  "tags": [
     "db",
     "couchdb",
     "pouchdb"

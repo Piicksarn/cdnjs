@@ -1,7 +1,7 @@
 {
   "name": "d3-geo-projection",
-  "filename": "d3.geo.projection.min.js",
-  "version": "0.2.16",
+  "filename": "d3-geo-projection.min.js",
+  "version": "2.4.0",
   "description": "Extended geographic projections for D3.js.",
   "keywords": [
     "cartography",
@@ -19,10 +19,9 @@
   "npmName": "d3-geo-projection",
   "npmFileMap": [
     {
-      "basePath": "",
+      "basePath": "build",
       "files": [
-        "d3.geo.projection.js",
-        "d3.geo.projection.min.js"
+        "**/*"
       ]
     }
   ],

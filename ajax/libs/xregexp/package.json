@@ -1,7 +1,7 @@
 {
   "name": "xregexp",
   "filename": "xregexp-all.min.js",
-  "version": "3.1.1",
+  "version": "3.2.0",
   "description": "Extended regular expressions",
   "homepage": "http://xregexp.com/",
   "keywords": [

@@ -4,6 +4,7 @@
   "filename": "lego.min.js",
   "version": "0.0.1",
   "npmName": "legojs",
+  "license": "MIT",
   "npmFileMap": [
     {
       "basePath": "",
@@ -18,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tybenz/legojs.git"
+    "url": "https://github.com/tybenz/presentation-js-legos.git"
   },
   "keywords": [
     "legojs"

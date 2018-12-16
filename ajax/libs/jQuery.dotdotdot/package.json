@@ -1,7 +1,7 @@
 {
   "name": "jQuery.dotdotdot",
-  "filename": "jquery.dotdotdot.min.js",
-  "version": "1.7.4",
+  "filename": "jquery.dotdotdot.js",
+  "version": "3.2.2",
   "homepage": "http://dotdotdot.frebsite.nl/",
   "description": "A jQuery plugin for advanced cross-browser ellipsis on multiple line content.",
   "keywords": [
@@ -13,13 +13,7 @@
     "overflow",
     "dots"
   ],
-  "licenses": [
-    "MIT",
-    {
-      "type": "GPL",
-      "url": "http://en.wikipedia.org/wiki/GNU_General_Public_License"
-    }
-  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/BeSite/jQuery.dotdotdot.git"
@@ -29,9 +23,9 @@
     "target": "git://github.com/BeSite/jQuery.dotdotdot.git",
     "fileMap": [
       {
-        "basePath": "src/js",
+        "basePath": "dist",
         "files": [
-          "*.js"
+          "**/*"
         ]
       }
     ]

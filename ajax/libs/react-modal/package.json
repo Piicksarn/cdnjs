@@ -1,26 +1,18 @@
 {
   "name": "react-modal",
-  "version": "1.7.1",
+  "version": "3.7.1",
   "description": "Accessible modal dialog component for React.JS",
   "repository": {
     "type": "git",
     "url": "https://github.com/reactjs/react-modal.git"
   },
   "license": "MIT",
-  "tags": [
-    "react",
-    "modal",
-    "dialog"
-  ],
   "keywords": [
     "react",
     "react-component",
     "modal",
     "dialog"
   ],
-  "browserify-shim": {
-    "react": "global:React"
-  },
   "npmName": "react-modal",
   "npmFileMap": [
     {

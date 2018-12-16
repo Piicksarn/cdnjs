@@ -5,7 +5,6 @@
   "description": "Photocols: A photo navigation for jQuery",
   "author": "Dailos Medina <dailos@2coders.com>",
   "homepage": "http://2coders.com",
-  "docs": "http://2coders.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/2CodersTeam/jquery.photocols.git"

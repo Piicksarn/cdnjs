@@ -2,7 +2,7 @@
   "name": "decimal.js",
   "filename": "decimal.min.js",
   "description": "An arbitrary-precision Decimal type for JavaScript.",
-  "version": "7.1.1",
+  "version": "10.0.2",
   "homepage": "https://mikemcl.github.io/decimal.js/",
   "keywords": [
     "arbitrary",
@@ -32,7 +32,7 @@
     {
       "basePath": "",
       "files": [
-        "decimal*",
+        "decimal*.!(mjs)",
         "doc/decimal.js.map"
       ]
     }

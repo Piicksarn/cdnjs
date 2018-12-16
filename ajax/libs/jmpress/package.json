@@ -24,7 +24,6 @@
     "type": "git",
     "url": "git://github.com/jmpressjs/jmpress.js.git"
   },
-  "github": "https://github.com/jmpressjs/jmpress.js",
   "license": "MIT",
   "keywords": [
     "jmpress"

@@ -13,9 +13,6 @@
     "jquery-plugin"
   ],
   "license": "DWIWYWBPVMS",
-  "moduleType": [
-    "jquery"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/dinbror/bpopup.git",

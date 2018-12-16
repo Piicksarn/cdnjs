@@ -1,7 +1,7 @@
 {
   "name": "push.js",
   "filename": "push.min.js",
-  "version": "0.0.13",
+  "version": "1.0.9",
   "description": "A compact, cross-browser solution for Javascript desktop notifications",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
     "target": "git://github.com/Nickersoft/push.js.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "bin",
         "files": [
-          "push!(_tests.js)"
+          "**/*"
         ]
       }
     ]

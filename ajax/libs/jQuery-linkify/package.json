@@ -1,7 +1,7 @@
 {
   "name": "jQuery-linkify",
   "description": "Intelligent link recognition, made easy",
-  "filename": "jquery.linkify.min.js",
+  "filename": "linkify.min.js",
   "author": "SoapBox Innovations, Inc.",
   "repository": {
     "type": "git",
@@ -12,19 +12,16 @@
     "jquery",
     "linkify"
   ],
-  "homepage": "https://github.com/SoapBox/linkifyjs/",
-  "version": "1.1.7",
+  "homepage": "https://soapbox.github.io/linkifyjs/",
+  "version": "2.1.7",
   "license": "MIT",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/SoapBox/linkifyjs.git",
-    "fileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  }
+  "npmName": "linkifyjs",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/!(*.zip)"
+      ]
+    }
+  ]
 }

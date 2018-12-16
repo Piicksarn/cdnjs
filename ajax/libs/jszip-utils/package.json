@@ -19,7 +19,7 @@
     "MIT",
     "GPL-3.0"
   ],
-  "hoempage": "https://stuk.github.io/jszip-utils",
+  "homepage": "https://stuk.github.io/jszip-utils",
   "npmName": "jszip-utils",
   "npmFileMap": [
     {

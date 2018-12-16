@@ -1,7 +1,7 @@
 {
   "name": "aphrodite",
   "filename": "aphrodite.min.js",
-  "version": "1.1.0",
+  "version": "2.2.3",
   "description": "Inline styles in JS that just work (TM)",
   "keywords": [
     "css",

@@ -1,7 +1,7 @@
 {
   "name": "fullcalendar",
   "title": "FullCalendar",
-  "version": "3.2.0",
+  "version": "3.9.0",
   "description": "Full-sized drag & drop event calendar",
   "keywords": [
     "calendar",
@@ -20,7 +20,6 @@
     "email": "arshaw@arshaw.com",
     "url": "http://arshaw.com/"
   },
-  "copyright": "2015 Adam Shaw",
   "filename": "fullcalendar.min.js",
   "autoupdate": {
     "source": "git",
@@ -29,7 +28,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/*"
+          "**/!(*.ts)"
         ]
       }
     ]

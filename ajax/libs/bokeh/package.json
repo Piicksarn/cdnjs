@@ -1,7 +1,7 @@
 {
   "name": "bokeh",
   "filename": "bokeh.min.js",
-  "version": "0.12.4",
+  "version": "1.0.2",
   "description": "Interactive, novel data visualization",
   "keywords": [
     "bokeh",
@@ -23,7 +23,7 @@
     {
       "basePath": "build/js",
       "files": [
-        "bokeh*"
+        "bokeh*.!(json)"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "name": "tone",
   "filename": "Tone.min.js",
-  "version": "0.9.0",
+  "version": "13.3.12",
   "description": "A Web Audio framework for making interactive music in the browser.",
   "repository": {
     "type": "git",

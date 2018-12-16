@@ -16,7 +16,6 @@
     "sharing"
   ],
   "license": "MIT",
-  "readmeFilename": "readme.md",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sofish/wechat.js.git",

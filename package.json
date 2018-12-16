@@ -3,7 +3,7 @@
   "name": "cdnjs",
   "description": "Our goal is to operate this CDN in a peer reviewed fashion.",
   "version": "1.0.0",
-  "homepage": "http://www.cdnjs.com/",
+  "homepage": "https://cdnjs.com/",
   "repository": {
     "type": "git",
     "url": "git://github.com/cdnjs/cdnjs.git"
@@ -15,30 +15,32 @@
   },
   "license": "MIT",
   "dependencies": {
-    "async": "^2.0.0",
+    "async": "^2.6.0",
+    "chmodr": "^1.0.2",
     "colors": "^1.1",
     "execSync": "^1.0",
-    "fs-extra": "^2.0.0",
-    "git-url-parse": "^6.0.5",
+    "fs-extra": "^5.0.0",
+    "git-url-parse": "^8.3.1",
     "glob": "^7",
-    "is-there": "4.4.0",
-    "lodash": "^4.12",
+    "is-there": "^4.4.3",
+    "lodash": "^4.17.10",
     "rss": "^1.2",
-    "semver": "^5.1.0",
+    "semver": "^5.5.0",
     "semver-stable": "^2.0.4",
-    "superagent": "^3.3.0",
-    "tarball-extract": "^0.0.3"
+    "superagent": "^3.8.2",
+    "tarball-extract": "^0.0.6"
   },
   "devDependencies": {
     "JSV": "^4.0.2",
-    "doctoc": "^1.2.0",
-    "jasmine": "^2.5.2",
+    "doctoc": "^1.3.0",
+    "jasmine": "^3.0.0",
     "jscs": "^3.0.7",
-    "jslint": "^0.10.1",
-    "rewire": "^2.5.2",
+    "jslint": "^0.12.0",
+    "jsonlint": "^1.6.2",
+    "rewire": "^3.0.2",
     "vows-si": "^0.7.1"
   },
   "engines": {
-    "node": "^4.2.3"
+    "node": "^8"
   }
 }

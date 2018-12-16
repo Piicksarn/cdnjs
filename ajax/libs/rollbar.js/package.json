@@ -2,14 +2,14 @@
   "name": "rollbar.js",
   "author": "Rollbar, Inc",
   "description": "Error tracking and logging from JS to Rollbar",
-  "version": "1.9.3",
+  "version": "2.5.1",
   "homepage": "https://rollbar.com",
   "repository": {
     "type": "git",
     "url": "http://github.com/rollbar/rollbar.js"
   },
   "license": "MIT",
-  "filename": "rollbar.umd.nojson.min.js",
+  "filename": "rollbar.min.js",
   "keywords": [
     "errors",
     "tracking",

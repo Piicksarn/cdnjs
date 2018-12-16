@@ -25,5 +25,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/allpro/layout.git"
-  }
+  },
+  "licenses": [
+    "MIT",
+    "GPL-3.0"
+  ]
 }

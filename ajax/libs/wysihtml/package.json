@@ -19,6 +19,12 @@
       {
         "basePath": "dist",
         "files": [
+          "*"
+        ]
+      },
+      {
+        "basePath": "dist/minified",
+        "files": [
           "**/*"
         ]
       }

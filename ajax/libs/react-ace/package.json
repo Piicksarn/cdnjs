@@ -1,6 +1,6 @@
 {
   "name": "react-ace",
-  "version": "4.1.6",
+  "version": "6.2.0",
   "filename": "react-ace.min.js",
   "description": "A react component for Ace Editor",
   "author": "James Hrisho",

@@ -1,9 +1,9 @@
 {
   "name": "flowplayer",
   "filename": "flowplayer.min.js",
-  "version": "5.4.6",
+  "version": "7.2.7",
   "description": "The HTML5 video player for the web",
-  "homepage": "http://flowplayer.org/",
+  "homepage": "https://flowplayer.org/",
   "keywords": [
     "video",
     "audio",
@@ -16,5 +16,18 @@
     "type": "git",
     "url": "https://github.com/flowplayer/flowplayer"
   },
-  "license": "GPLv3"
+  "license": "GPL-3.0",
+  "author": {
+    "name": "Niklas Närhinen",
+    "url": "https://github.com/nnarhinen"
+  },
+  "npmName": "flowplayer",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
 }

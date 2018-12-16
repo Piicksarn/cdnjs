@@ -1,7 +1,7 @@
 {
   "name": "skel-layers",
   "filename": "skel-layers.min.js",
-  "version": "2.0.2",
+  "version": "2.2.1",
   "description": "Layers: A plugin for Skel that streamlines building stuff like off-canvas navigation, toolbars, modals, and other stuff.",
   "homepage": "http://getskel.com/",
   "keywords": [
@@ -11,6 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/n33/skel-layers.git"
-  }
+    "url": "https://github.com/ajlkn/skel.old.git"
+  },
+  "license": "MIT"
 }

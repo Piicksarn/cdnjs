@@ -3,8 +3,7 @@
   "filename": "css/materialize.min.css",
   "description": "Builds Materialize distribution packages",
   "author": "Alvin Wang, Alan Chang",
-  "url": "http://materializecss.com/",
-  "version": "0.98.0",
+  "version": "1.0.0",
   "license": "MIT",
   "autoupdate": {
     "source": "git",
@@ -22,6 +21,7 @@
     "type": "git",
     "url": "git://github.com/Dogfalo/materialize.git"
   },
+  "homepage": "http://materializecss.com/",
   "keywords": [
     "css",
     "js",

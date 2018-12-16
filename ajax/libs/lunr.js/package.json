@@ -1,7 +1,7 @@
 {
   "name": "lunr.js",
   "filename": "lunr.min.js",
-  "version": "1.0.0",
+  "version": "2.3.5",
   "description": "Simple full-text search in your browser.",
   "homepage": "http://lunrjs.com",
   "keywords": [
@@ -12,7 +12,7 @@
     {
       "basePath": "",
       "files": [
-        "lunr.min.js"
+        "lunr.*"
       ]
     }
   ],

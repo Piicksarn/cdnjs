@@ -15,7 +15,6 @@
     "truncate"
   ],
   "homepage": "http://jrvis.com/trunk8/",
-  "demo": "http://jrvis.com/trunk8/",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/rviscomi/trunk8.git",

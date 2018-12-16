@@ -1,20 +1,26 @@
 {
   "name": "notie",
-  "description": "A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.",
-  "author": {
-    "name": "Jared Reich"
-  },
-  "version": "4.3.0",
+  "description": "notie - a clean and simple notification, input, and selection suite for javascript, with no dependencies",
+  "author": "Jared Reich",
+  "version": "4.3.1",
   "filename": "notie.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaredreich/notie.js.git"
+    "url": "git+https://github.com/jaredreich/notie.git"
   },
   "keywords": [
-    "tip"
+    "tip",
+    "javascript",
+    "notification",
+    "alert",
+    "prompt",
+    "confirm",
+    "growl",
+    "toast",
+    "message"
   ],
   "license": "MIT",
-  "homepage": "https://jaredreich.com/projects/notie.js",
+  "homepage": "https://jaredreich.com/notie",
   "npmName": "notie",
   "npmFileMap": [
     {

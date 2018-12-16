@@ -1,19 +1,13 @@
 {
   "name": "quickblox",
   "filename": "quickblox.min.js",
-  "version": "2.5.1",
+  "version": "2.12.2",
   "description": "JavaScript SDK of QuickBlox cloud backend platform.",
   "homepage": "http://quickblox.com/developers/Javascript",
   "keywords": [
     "quickblox",
     "backend",
     "cloud",
-    "db"
-  ],
-  "tags": [
-    "quickblox",
-    "cloud",
-    "backend",
     "db"
   ],
   "autoupdate": {

@@ -1,7 +1,7 @@
 {
   "name": "ng-flow",
   "filename": "ng-flow-standalone.min.js",
-  "version": "2.7.4",
+  "version": "2.7.8",
   "description": "Flow.js html5 file upload extension on angular.js framework",
   "repository": {
     "type": "git",
@@ -20,7 +20,6 @@
   ],
   "author": "Aidas Klimas",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/flowjs/ng-flow.git",

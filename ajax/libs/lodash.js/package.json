@@ -1,6 +1,6 @@
 {
   "name": "lodash.js",
-  "version": "4.17.4",
+  "version": "4.17.11",
   "filename": "lodash.min.js",
   "description": "A utility library delivering consistency, customization, performance, & extras.",
   "homepage": "http://lodash.com/",
@@ -25,10 +25,9 @@
     "target": "git://github.com/lodash/lodash.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "lodash.js",
-          "lodash.min.js"
+          "**/*"
         ]
       }
     ]

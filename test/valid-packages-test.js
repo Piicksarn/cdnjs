@@ -8,6 +8,7 @@ var jsv = require('JSV').JSV.createEnvironment();
 var gitUrlParse = require('git-url-parse');
 var isThere = require('is-there');
 var libsToRun = require('./support/libsToRun');
+var recognizedFields = require('./recognizedFields.js');
 
 function parse(jsonFile, ignoreMissing) {
   var content;
@@ -134,7 +135,7 @@ packages.map(function (pkg) {
     var json = parse(pkg, true);
     if (json.repository) {
       assert.ok(
-                 ((json.repository.type !== undefined) && (json.repository.url !== undefined)),
+                ((json.repository.type !== undefined) && (json.repository.url !== undefined)),
                 'There repository field in ' + json.name + "'s package.json should follow npm's format, must have type and url field."
             );
     }
@@ -147,7 +148,7 @@ packages.map(function (pkg) {
     }
 
     assert.ok((json.npmName !== undefined && json.npmFileMap !== undefined && Array.isArray(json.npmFileMap)) || (json.autoupdate !== undefined),
-                   pkgName(pkg) + ': must have a valid auto-update config');
+                  pkgName(pkg) + ': must have a valid auto-update config');
   };
 
   packageVows[pname + ': npmName and npmFileMap should be a pair'] = function (pkg) {
@@ -160,7 +161,7 @@ packages.map(function (pkg) {
                   pkgName(pkg) + ': npmName and npmFileMap should be a pair');
   };
 
-  var targetPrefixes = new RegExp('^git://.+.git$');
+  var targetPrefixes = new RegExp('^(git|http|https)://.+.git$');
   packageVows[pname + ': autoupdate block is valid (if present)'] = function (pkg) {
     var json = parse(pkg, true);
     var fileMapPostfixes = new RegExp('\\*\\*$');
@@ -215,9 +216,6 @@ packages.map(function (pkg) {
     var orig = fs.readFileSync(pkg, 'utf8');
     var correct = JSON.stringify(JSON.parse(orig), null, 2) + '\n';
     var content = JSON.parse(correct);
-    if (content.version === undefined) {
-      return;
-    }
 
     assert.ok(orig === correct,
             pkgName(pkg) + ': package.json wrong indent, please use 2-spaces as indent, remove trailing spaces, you can use our tool: tools/fixFormat.js to fix it for you, here is an example: (Please ignore the first 2 spaces and the wildcard symbol in autoupadte config due to a bug)\n' + correct + '\n');
@@ -239,41 +237,13 @@ packages.map(function (pkg) {
 
   packageVows[pname + ': useless fields check'] = function (pkg) {
     var json = parse(pkg, true);
-    var jsonFix = JSON.parse(JSON.stringify(json));
-    delete jsonFix.bin;
-    delete jsonFix.jshintConfig;
-    delete jsonFix.eslintConfig;
-    delete jsonFix.requiredFiles;
-    delete jsonFix.styles;
-    delete jsonFix.install;
-    delete jsonFix.typescript;
-    delete jsonFix.browserify;
-    delete jsonFix.browser;
-    delete jsonFix.jam;
-    delete jsonFix.jest;
-    delete jsonFix.scripts;
-    delete jsonFix.devDependencies;
-    delete jsonFix.dependencies;
-    delete jsonFix.optionalDependencies;
-    delete jsonFix.main;
-    delete jsonFix.peerDependencies;
-    delete jsonFix.contributors;
-    delete jsonFix.maintainers;
-    delete jsonFix.bugs;
-    delete jsonFix.gitHEAD;
-    delete jsonFix.gitHead;
-    delete jsonFix.spm;
-    delete jsonFix.dist;
-    delete jsonFix.issues;
-    delete jsonFix.files;
-    delete jsonFix.ignore;
-    delete jsonFix.engines;
-    delete jsonFix.engine;
-    delete jsonFix.directories;
-    delete jsonFix.repositories;
 
-    assert.ok(JSON.stringify(json) === JSON.stringify(jsonFix),
-            pkgName(pkg) + ": we don't need bin, jshintConfig, eslintConfig, styles, install, typescript, browserify, browser, jam, jest, scripts, devDependencies, dependencies, optionalDependencies, main, peerDependencies, contributors, bugs, gitHEAD, issues, files, ignore, engines, engine, directories, repositories and maintainers fields in package.json");
+    Object.keys(recognizedFields).forEach(function(field) {
+      delete json[field];
+    });
+
+    assert.ok(Object.keys(json).length === 0,
+            pkgName(pkg) + `: we don't need ${Object.keys(json).join(', ') + ' keys' } in package.json`);
   };
 
   packageVows[pname + ': There must be repository information when using auto-update config'] = function (pkg) {
@@ -350,11 +320,11 @@ packages.map(function (pkg) {
         if (json.npmFileMap[i].basePath) {
           var basePath = json.npmFileMap[i].basePath;
           assert.ok(
-             (
-                 (basePath.length == 0) ||
-                 (basePath[0] != '/' && basePath[basePath.length - 1] != '/')
-             ),
-             pkgName(pkg) + ': Need to remove leading/trailing slash ("/") in basePath in package.json');
+            (
+                (basePath.length == 0) ||
+                (basePath[0] != '/' && basePath[basePath.length - 1] != '/')
+            ),
+            pkgName(pkg) + ': Need to remove leading/trailing slash ("/") in basePath in package.json');
         }
       }
     } else if (json.autoupdate) {

@@ -2,7 +2,7 @@
   "name": "pica",
   "description": "High quality image resize in browser.",
   "filename": "pica.min.js",
-  "version": "2.0.8",
+  "version": "5.0.0",
   "keywords": [
     "resize",
     "scale",

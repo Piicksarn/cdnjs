@@ -1,7 +1,7 @@
 {
   "name": "flexisel",
   "filename": "js/jquery.flexisel.min.js",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "description": "A responsive carousel jQuery plugin",
   "repository": {
     "type": "git",

@@ -11,18 +11,6 @@
     "twitter"
   ],
   "homepage": "http://bootstraptour.com",
-  "mantainers": [
-    {
-      "name": "Ulrich Sossou",
-      "email": "sorich87@gmail.com",
-      "web": "http://ulrichsossou.com"
-    },
-    {
-      "name": "Emanuele Marchi",
-      "email": "emanuele@lostcrew.it",
-      "web": "http://lostcrew.nl"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/sorich87/bootstrap-tour.git"

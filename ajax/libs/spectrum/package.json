@@ -4,9 +4,7 @@
   "version": "1.8.0",
   "title": "Spectrum Colorpicker",
   "description": "Spectrum: the no hassle jQuery colorpicker",
-  "docs": "http://bgrins.github.com/spectrum",
   "homepage": "http://bgrins.github.com/spectrum",
-  "demo": "http://jsfiddle.net/bgrins/ctkY3/",
   "author": {
     "name": "Brian Grinstead",
     "email": "briangrinstead@gmail.com",

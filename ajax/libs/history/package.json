@@ -1,6 +1,6 @@
 {
   "name": "history",
-  "version": "4.5.1",
+  "version": "4.7.2",
   "description": "A minimal, functional history implementation for JavaScript",
   "repository": {
     "type": "git",

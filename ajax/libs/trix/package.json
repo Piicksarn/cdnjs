@@ -1,6 +1,6 @@
 {
   "name": "trix",
-  "version": "0.10.1",
+  "version": "1.0.0",
   "filename": "trix.js",
   "description": "A rich text editor for everyday writing",
   "repository": {

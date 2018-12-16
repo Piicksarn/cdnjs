@@ -1,7 +1,7 @@
 {
   "name": "fuse.js",
   "filename": "fuse.min.js",
-  "version": "2.6.2",
+  "version": "3.3.0",
   "description": "Lightweight fuzzy-search",
   "homepage": "http://kiro.me/projects/fuse.html",
   "keywords": [
@@ -13,9 +13,9 @@
     "target": "git://github.com/krisk/Fuse.git",
     "fileMap": [
       {
-        "basePath": "src",
+        "basePath": "dist",
         "files": [
-          "*"
+          "**/*"
         ]
       }
     ]
@@ -24,6 +24,6 @@
     "type": "git",
     "url": "https://github.com/krisk/Fuse"
   },
-  "license": "Apache",
+  "license": "Apache-2.0",
   "author": "Kirollos Risk"
 }

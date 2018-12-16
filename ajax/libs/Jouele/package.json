@@ -2,7 +2,7 @@
   "name": "Jouele",
   "filename": "jouele.js",
   "description": "Jouele is a simple and beautiful audio player for the web. ",
-  "version": "2.2.2",
+  "version": "2.3.0",
   "author": "Ilya Birman",
   "keywords": [
     "jquery",

@@ -11,9 +11,6 @@
     "data",
     "visualization"
   ],
-  "demos": [
-    "http://philogb.github.io/jit/demos.html"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/philogb/jit.git",
@@ -27,9 +24,7 @@
       }
     ]
   },
-  "license": {
-    "name": "BSD"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/philogb/jit.git"

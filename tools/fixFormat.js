@@ -5,10 +5,11 @@ var fs = require('fs'),
   glob = require('glob'),
   GitUrlParse = require('git-url-parse'),
   _ = require('lodash'),
-  packages = glob.sync('./ajax/libs/*/package.json');
-colors = require('colors'),
-licenses = JSON.parse(fs.readFileSync('tools/license-list.json', 'utf8'));
-isThere = require('is-there');
+  packages = glob.sync('./ajax/libs/*/package.json'),
+  colors = require('colors'),
+  licenses = JSON.parse(fs.readFileSync('tools/license-list.json', 'utf8')),
+  isThere = require('is-there'),
+  recognizedKeys = require('../test/recognizedFields.js');
 
 function fixFormat() {
   /*
@@ -20,11 +21,20 @@ function fixFormat() {
    * 3. Fix the package.json of each lib. If the minified file exists, filename field should point to it.
    *
    */
+  var args = process.argv;
+  if (args[2]) {
+    arg = args.slice(2)[0];
+    packages = glob.sync('./ajax/libs/' + arg + '/package.json');
+  }
+
+  if (!packages.length){
+    console.log('No libraries were found by given pattern');
+    return;
+  }
 
   async.each(packages, function (item, callback) {
     var pkg = JSON.parse(fs.readFileSync(item, 'utf8'));
 
-    deletePackageParts(pkg);
     deleteHomepage(pkg);
     fixAuthors(pkg);
     fixLicense(pkg);
@@ -33,6 +43,7 @@ function fixFormat() {
     fixAutoupdate(pkg);
     fixFilenameField(pkg);
     removeKeysWithLeadingUnderscores(pkg);
+    removeUnrecognizedFields(pkg);
 
     const pkgJson = JSON.stringify(pkg, null, 2) + '\n';
 
@@ -43,40 +54,6 @@ function fixFormat() {
 
     callback();
   });
-
-  function deletePackageParts(pkg) {
-    delete pkg.bin;
-    delete pkg.jshintConfig;
-    delete pkg.eslintConfig;
-    delete pkg.maintainers;
-    delete pkg.styles;
-    delete pkg.requiredFiles;
-    delete pkg.install;
-    delete pkg.typescript;
-    delete pkg.browserify;
-    delete pkg.browser;
-    delete pkg.jam;
-    delete pkg.jest;
-    delete pkg.scripts;
-    delete pkg.devDependencies;
-    delete pkg.main;
-    delete pkg.peerDependencies;
-    delete pkg.contributors;
-    delete pkg.bugs;
-    delete pkg.gitHEAD;
-    delete pkg.gitHead;
-    delete pkg.spm;
-    delete pkg.dist;
-    delete pkg.issues;
-    delete pkg.files;
-    delete pkg.ignore;
-    delete pkg.engines;
-    delete pkg.engine;
-    delete pkg.directories;
-    delete pkg.repositories;
-    delete pkg.dependencies;
-    delete pkg.optionalDependencies;
-  }
 
   function deleteHomepage(pkg) {
     if ((pkg.repository != undefined) && (pkg.repository.type == 'git')) {
@@ -182,7 +159,7 @@ function fixFormat() {
           {
               basePath: basePath || '',
               files: pkg.autoupdate.files
-            }
+          }
         ];
         delete pkg.autoupdate.basePath;
         delete pkg.autoupdate.files;
@@ -215,6 +192,7 @@ function fixFormat() {
 
   function fixFilenameField(pkg) {
     if (!pkg.filename) {
+      pkg.filename = "";
       return;
     }
 
@@ -238,6 +216,16 @@ function fixFormat() {
     Object.keys(pkg).forEach(function (key) {
       if (key[0] === '_') {
         delete pkg[key];
+      }
+    });
+  }
+
+  function removeUnrecognizedFields(pkg) {
+    Object.keys(pkg).forEach(function(key) {
+      if (!recognizedKeys[key]) {
+        delete pkg[key]
+
+        console.log(('removed unsupported key from ' + pkg.name + ': ' + key).green);
       }
     });
   }

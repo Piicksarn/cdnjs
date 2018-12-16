@@ -12,10 +12,6 @@
     "type": "git",
     "url": "https://github.com/cowboy/jquery-hashchange"
   },
-  "licences": [
-    "MIT",
-    "GPL-2.0"
-  ],
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/cowboy/jquery-hashchange.git",
@@ -27,5 +23,9 @@
         ]
       }
     ]
-  }
+  },
+  "licenses": [
+    "MIT",
+    "GPL-2.0"
+  ]
 }

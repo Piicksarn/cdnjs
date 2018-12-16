@@ -1,7 +1,7 @@
 {
   "name": "hint.css",
   "filename": "hint.min.css",
-  "version": "2.4.1",
+  "version": "2.5.1",
   "homepage": "http://kushagragour.in/lab/hint/",
   "description": "A tooltip library in CSS for your lovely websites.",
   "keywords": [

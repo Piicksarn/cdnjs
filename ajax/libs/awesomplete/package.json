@@ -1,7 +1,7 @@
 {
   "name": "awesomplete",
   "filename": "awesomplete.min.js",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "Ultra lightweight, usable, beautiful autocomplete with zero dependencies.",
   "keywords": [
     "autocomplete",

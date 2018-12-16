@@ -1,7 +1,7 @@
 {
   "name": "mixitup",
-  "filename": "jquery.mixitup.min.js",
-  "version": "2.1.11",
+  "filename": "mixitup.min.js",
+  "version": "3.3.1",
   "description": "A CSS3 and jQuery Filter & Sort Plugin",
   "homepage": "https://mixitup.kunkalabs.com/",
   "keywords": [
@@ -17,9 +17,9 @@
     "target": "git://github.com/patrickkunka/mixitup.git",
     "fileMap": [
       {
-        "basePath": "src",
+        "basePath": "dist",
         "files": [
-          "jquery.mixitup*.js"
+          "**/*"
         ]
       }
     ]

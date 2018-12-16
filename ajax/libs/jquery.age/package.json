@@ -12,9 +12,7 @@
     "email": "kevin@ksylvest.com",
     "url": "http://ksylvest.com/"
   },
-  "docs": "https://ksylvest.github.com/jquery-age",
   "homepage": "https://ksylvest.github.com/jquery-age",
-  "download": "https://ksylvest.github.com/jquery-age",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ksylvest/jquery-age.git",

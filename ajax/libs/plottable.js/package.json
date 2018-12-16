@@ -2,7 +2,7 @@
   "name": "plottable.js",
   "filename": "plottable.min.js",
   "description": "A modular charting library built on D3",
-  "version": "2.9.0",
+  "version": "3.8.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/palantir/plottable.git"
@@ -22,20 +22,15 @@
     "plot",
     "plots"
   ],
+  "npmName": "plottable",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "plottable*"
+      ]
+    }
+  ],
   "author": "Palantir Technologies",
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/palantir/plottable.git",
-    "fileMap": [
-      {
-        "basePath": "",
-        "files": [
-          "plottable.css",
-          "plottable.js",
-          "plottable.min.js"
-        ]
-      }
-    ]
-  },
   "license": "MIT"
 }

@@ -1,12 +1,8 @@
 {
   "name": "msgpack5",
-  "version": "3.4.1",
+  "version": "4.2.0",
   "filename": "msgpack5.min.js",
   "description": "A msgpack v5 implementation for node.js and the browser, with extension points",
-  "pre-commit": [
-    "jshint",
-    "test"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/mcollina/msgpack5.git"
@@ -19,19 +15,6 @@
   ],
   "author": "Matteo collina <hello@matteocollina.com>",
   "license": "MIT",
-  "testling": {
-    "files": "test/*.js",
-    "browsers": [
-      "ie/6..latest",
-      "chrome/22..latest",
-      "firefox/16..latest",
-      "safari/latest",
-      "opera/11.0..latest",
-      "iphone/6",
-      "ipad/6",
-      "android-browser/latest"
-    ]
-  },
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/mcollina/msgpack5.git",

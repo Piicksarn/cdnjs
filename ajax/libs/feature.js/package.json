@@ -7,7 +7,6 @@
     "feature",
     "detection"
   ],
-  "licenst": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/viljamis/feature.js.git"

@@ -3,7 +3,6 @@
   "version": "0.3.4",
   "filename": "vue-material-components.min.js",
   "description": "Web components of Vue.js and materializecss",
-  "library": "VueMaterialComponents",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/appcomponents/materialize-components.git"

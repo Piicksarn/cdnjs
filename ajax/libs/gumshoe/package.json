@@ -1,7 +1,7 @@
 {
   "name": "gumshoe",
   "filename": "js/gumshoe.min.js",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "description": "A simple, framework-agnostic scrollspy script.",
   "author": {
     "name": "Chris Ferdinandi",

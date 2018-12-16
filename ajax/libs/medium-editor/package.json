@@ -1,6 +1,6 @@
 {
   "name": "medium-editor",
-  "version": "5.23.0",
+  "version": "5.23.3",
   "author": "Davi Ferreira <hi@daviferreira.com>",
   "description": "Medium.com WYSIWYG editor clone.",
   "repository": {
@@ -15,9 +15,6 @@
     "wysiwyg",
     "rich-text"
   ],
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
-  },
   "license": "MIT",
   "filename": "js/medium-editor.min.js",
   "autoupdate": {

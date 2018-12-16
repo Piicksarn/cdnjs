@@ -1,7 +1,7 @@
 {
   "name": "mediaelement",
   "filename": "mediaelement.min.js",
-  "version": "3.2.3",
+  "version": "4.2.9",
   "description": "HTML5 audio and video players in pure HTML and CSS. MediaElementPlayer.js uses the same HTML/CSS for all players.",
   "homepage": "http://mediaelementjs.com/",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "autoupdate": {
     "source": "git",
-    "target": "git://github.com/johndyer/mediaelement.git",
+    "target": "git://github.com/mediaelement/mediaelement.git",
     "fileMap": [
       {
         "basePath": "build",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johndyer/mediaelement"
+    "url": "https://github.com/mediaelement/mediaelement"
   },
   "license": "MIT"
 }

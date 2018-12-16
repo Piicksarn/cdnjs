@@ -1,7 +1,7 @@
 {
   "name": "ng-token-auth",
   "filename": "ng-token-auth.min.js",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "keywords": [
     "authentication",
     "oauth2",

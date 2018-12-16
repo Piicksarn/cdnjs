@@ -1,0 +1,42 @@
+{
+  "name": "clipboard-polyfill",
+  "filename": "clipboard-polyfill.js",
+  "version": "2.7.0",
+  "description": "A polyfill for the asynchronous clipboard API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgarron/clipboard-polyfill"
+  },
+  "keywords": [
+    "clipboard",
+    "HTML5",
+    "copy",
+    "copying",
+    "cut",
+    "paste",
+    "execCommand",
+    "setData",
+    "getData",
+    "polyfill"
+  ],
+  "author": "Lucas Garron <code@garron.net> (https://garron.net/)",
+  "license": "MIT",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/lgarron/clipboard-polyfill.git",
+    "fileMap": [
+      {
+        "basePath": "build",
+        "files": [
+          "**/!(*.ts)"
+        ]
+      },
+      {
+        "basePath": "",
+        "files": [
+          "clipboard*.js"
+        ]
+      }
+    ]
+  }
+}

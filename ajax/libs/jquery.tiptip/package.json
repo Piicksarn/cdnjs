@@ -7,9 +7,9 @@
     "tooltip"
   ],
   "version": "1.3",
-  "licences": [
+  "licenses": [
     "MIT",
-    "GPL"
+    "GPL-3.0"
   ],
   "repository": {
     "type": "git",

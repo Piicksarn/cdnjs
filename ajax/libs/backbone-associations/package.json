@@ -2,7 +2,6 @@
   "name": "backbone-associations",
   "filename": "backbone-associations-min.js",
   "description": "Create object hierarchies with Backbone models. Respond to hierarchy changes using regular Backbone events",
-  "url": "https://github.com/dhruvaray/backbone-associations/",
   "homepage": "http://dhruvaray.github.io/backbone-associations/",
   "keywords": [
     "Backbone",
@@ -20,7 +19,6 @@
     "type": "git",
     "url": "git://github.com/dhruvaray/backbone-associations.git"
   },
-  "github": "https://github.com/dhruvaray/backbone-associations/",
   "npmName": "backbone-associations",
   "npmFileMap": [
     {

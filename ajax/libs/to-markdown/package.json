@@ -2,12 +2,11 @@
   "name": "to-markdown",
   "filename": "to-markdown.min.js",
   "description": "HTML-to-Markdown converter",
-  "url": "http://domchristie.github.com/to-markdown/",
   "keywords": [
     "markdown"
   ],
   "author": "Dom Christie",
-  "version": "3.0.3",
+  "version": "3.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/domchristie/to-markdown.git"

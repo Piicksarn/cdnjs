@@ -1,7 +1,7 @@
 {
   "name": "d3-sankey",
   "filename": "d3-sankey.min.js",
-  "version": "0.4.2",
+  "version": "0.7.1",
   "description": "Visualize flow between nodes in a directed acyclic network.",
   "keywords": [
     "d3",

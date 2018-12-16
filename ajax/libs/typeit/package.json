@@ -1,6 +1,6 @@
 {
   "name": "typeit",
-  "version": "4.3.0",
+  "version": "5.10.7",
   "filename": "typeit.min.js",
   "license": "General Public License",
   "author": "Alex MacArthur <alex@macarthur.me>",
@@ -21,7 +21,7 @@
     {
       "basePath": "dist",
       "files": [
-        "**/!(jquery-+([0-9].)min.js)"
+        "**/!(typeit.es.js)"
       ]
     }
   ]

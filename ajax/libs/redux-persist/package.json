@@ -1,6 +1,6 @@
 {
   "name": "redux-persist",
-  "version": "4.4.2",
+  "version": "5.10.0",
   "description": "persist and rehydrate redux stores",
   "repository": {
     "type": "git",

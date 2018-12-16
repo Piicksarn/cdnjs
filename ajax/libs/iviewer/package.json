@@ -12,12 +12,6 @@
     "type": "git",
     "url": "git://github.com/can3p/iviewer.git"
   },
-  "keyword": [
-    "iviewer",
-    "jQuery.iviewer",
-    "jQuery",
-    "jQuery plugin"
-  ],
   "license": "MIT",
   "autoupdate": {
     "source": "git",

@@ -12,7 +12,6 @@
     "popup"
   ],
   "homepage": "http://wheely.github.io/ember-dialog/",
-  "private": false,
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/wheely/ember-dialog.git",
@@ -30,7 +29,6 @@
     "type": "git",
     "url": "https://github.com/wheely/ember-dialog"
   },
-  "licence": "MIT",
   "author": "Milkov V. Vladimir <v.v.milkov@gmail.com>",
   "license": "MIT"
 }

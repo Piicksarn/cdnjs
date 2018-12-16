@@ -23,9 +23,6 @@
   ],
   "homepage": "http://afarkas.github.com/webshim/demos/index.html",
   "description": "modular capability-based polyfill loading libary, which extends jQuery with HTML5 features in legacy browsers",
-  "docs": "http://afarkas.github.com/webshim/demos/index.html",
-  "demo": "http://afarkas.github.com/webshim/demos/index.html",
-  "download": "http://corrupt-system.de/webshims-stable.zip",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/aFarkas/webshim.git",

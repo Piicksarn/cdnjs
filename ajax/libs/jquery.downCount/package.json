@@ -14,8 +14,6 @@
     "url": "https://sonnyt.com"
   },
   "homepage": "http://sonnyt.com/downCount-plugin/",
-  "docs": "https://github.com/sonnyt/downCount#downCount",
-  "demo": "http://sonnyt.com/downCount",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/sonnyt/downCount.git",

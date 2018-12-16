@@ -2,7 +2,7 @@
   "name": "draft-js",
   "description": "A React framework for building text editors.",
   "filename": "Draft.min.js",
-  "version": "0.10.0",
+  "version": "0.10.5",
   "keywords": [
     "draftjs",
     "editor",
